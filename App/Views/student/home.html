@@ -1,0 +1,1206 @@
+{% block title %}Home{% endblock %}
+{% extends "studentbase.html" %}
+
+
+{% block dynamicContent %}
+<link type="text/css" rel="stylesheet" href="https://cdn01.jotfor.ms/themes/CSS/form-common.css?v=3ed48a3
+" />
+<style type="text/css">
+    @media print {
+        .form-section {
+            display: inline !important
+        }
+
+        .form-pagebreak {
+            display: none !important
+        }
+
+        .form-section-closed {
+            height: auto !important
+        }
+
+        .page-section {
+            position: initial !important
+        }
+    }
+</style>
+<link type="text/css" rel="stylesheet"
+    href="https://cdn02.jotfor.ms/themes/CSS/5e6b428acc8c4e222d1beb91.css?v=3.3.46287" />
+
+<link type="text/css" rel="stylesheet" href="https://cdn02.jotfor.ms/stylebuilder/donationBox.css?v=3.3.46287">
+<style type="text/css" id="form-designer-style">
+    /* Injected CSS Code */
+    /*PREFERENCES STYLE*/
+    .form-all {
+        font-family: Inter, sans-serif;
+    }
+
+    .form-all .qq-upload-button,
+    .form-all .form-submit-button,
+    .form-all .form-submit-reset,
+    .form-all .form-submit-print {
+        font-family: Inter, sans-serif;
+    }
+
+    .form-all .form-pagebreak-back-container,
+    .form-all .form-pagebreak-next-container {
+        font-family: Inter, sans-serif;
+    }
+
+    .form-header-group {
+        font-family: Inter, sans-serif;
+    }
+
+    .form-label {
+        font-family: Inter, sans-serif;
+    }
+
+    .form-label.form-label-auto {
+
+        display: block;
+        float: none;
+        text-align: left;
+        width: 100%;
+
+    }
+
+    .form-line {
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+
+    .form-all {
+        max-width: 752px;
+        width: 100%;
+    }
+
+    .form-label.form-label-left,
+    .form-label.form-label-right,
+    .form-label.form-label-left.form-label-auto,
+    .form-label.form-label-right.form-label-auto {
+        width: 230px;
+    }
+
+    .form-all {
+        font-size: 16px
+    }
+
+    .form-all .qq-upload-button,
+    .form-all .qq-upload-button,
+    .form-all .form-submit-button,
+    .form-all .form-submit-reset,
+    .form-all .form-submit-print {
+        font-size: 16px
+    }
+
+    .form-all .form-pagebreak-back-container,
+    .form-all .form-pagebreak-next-container {
+        font-size: 16px
+    }
+
+    .supernova .form-all,
+    .form-all {
+        background-color: #fff;
+    }
+
+    .form-all {
+        color: #1c3c8b;
+    }
+
+    .form-header-group .form-header {
+        color: #1c3c8b;
+    }
+
+    .form-header-group .form-subHeader {
+        color: #1c3c8b;
+    }
+
+    .form-label-top,
+    .form-label-left,
+    .form-label-right,
+    .form-html,
+    .form-checkbox-item label,
+    .form-radio-item label {
+        color: #1c3c8b;
+    }
+
+    .form-sub-label {
+        color: #3656a5;
+    }
+
+    .supernova {
+        background-color: #ecedf3;
+    }
+
+    .supernova body {
+        background: transparent;
+    }
+
+    .form-textbox,
+    .form-textarea,
+    .form-dropdown,
+    .form-radio-other-input,
+    .form-checkbox-other-input,
+    .form-captcha input,
+    .form-spinner input {
+        background-color: #fff;
+    }
+
+    .supernova {
+        background-image: none;
+    }
+
+    #stage {
+        background-image: none;
+    }
+
+    .form-all {
+        background-image: none;
+    }
+
+    .ie-8 .form-all:before {
+        display: none;
+    }
+
+    .ie-8 {
+        margin-top: auto;
+        margin-top: initial;
+    }
+
+    /*PREFERENCES STYLE*/
+    /*__INSPECT_SEPERATOR__*/
+    .form-all {
+        border: 5px solid #1D72E8 !important;
+    }
+
+    /* Injected CSS Code */
+</style>
+
+<style>
+    .newcardwrap {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 2rem;
+        margin: 2rem;
+        display: none;
+    }
+
+    .newcard {
+        --border-radius: 0.75rem;
+        --primary-color: #7257fa;
+        --secondary-color: #3c3852;
+        width: 210px;
+        font-family: "Arial";
+        padding: 1rem;
+        cursor: pointer;
+        border-radius: var(--border-radius);
+        background: #f1f1f3;
+        box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 3%);
+        position: relative;
+    }
+
+    .newcard>*+* {
+        margin-top: 1.1em;
+    }
+
+    .newcard .card__content {
+        color: var(--secondary-color);
+        font-size: 0.86rem;
+    }
+
+    .newcard .card__title {
+        padding: 0;
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+
+    .newcard .card__date {
+        color: #6e6b80;
+        font-size: 0.8rem;
+    }
+
+    .newcard .card__arrow {
+        position: absolute;
+        background: var(--primary-color);
+        padding: 0.4rem;
+        border-top-left-radius: var(--border-radius);
+        border-bottom-right-radius: var(--border-radius);
+        bottom: 0;
+        right: 0;
+        transition: 0.2s;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .newcard svg {
+        transition: 0.2s;
+    }
+
+    /* hover */
+    .newcard:hover .card__title {
+        color: var(--primary-color);
+        text-decoration: underline;
+    }
+
+    .newcard:hover .card__arrow {
+        background: #111;
+    }
+
+    .newcard:hover .card__arrow svg {
+        transform: translateX(3px);
+    }
+</style>
+{% if coursedata %}
+
+<main class="main" id="top">
+    <div id="myModal" class="modal fade">
+        <div class="modal-dialog modal-confirm">
+            <div class="modal-content">
+                <div class="modal-header flex-column">
+                    <div class="icon-box">
+                        <i class="material-icons">&#xE5CD;</i>
+                    </div>
+                    <h4 class="modal-title w-100">Delete <span class="Class-name"></span> ?</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <p>Do you really want to delete these records? This process cannot be undone.</p>
+                </div>
+                <div class="modal-footer justify-content-center">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                    <input type="hidden" name="Class-id" id="classId" readonly value="">
+                    <button type="button" onclick="deleteCourse()" class="btn btn-danger"
+                        data-dismiss="modal">Delete</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container" data-layout="container">
+
+        <div class="content">
+            <div class="row g-0">
+                <div class="col-lg-6 col-xl-7 col-xxl-8 mb-3 pe-lg-2 mb-3">
+                    <div class="card h-lg-100">
+                        <div class="card-body d-flex align-items-center">
+                            <div class="w-100">
+                                <h6 class="mb-3 text-800">
+                                    Nice to have you back, what an
+                                    exciting day.Get ready and continue
+                                    your lesson's today</h6>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-xl-5 col-xxl-4 mb-3 ps-lg-2">
+                    <div class="card h-lg-100">
+                        <div class="bg-holder bg-card"
+                            style="background-image:url(assets/img/icons/spot-illustrations/corner-1.png);"></div>
+                        <!--/.bg-holder-->
+                        <div class="card-body position-relative d-flex">
+                            <div class="col card-banner ">
+
+
+                                {% for item in coursedata %}
+                                <div class="xp-course cssanimation sequence fadeInBottom">
+                                    <h3>Xp - {{ coursedetails[item.selected_courses].xp
+                                        }}</h3>
+                                    <p> {{item.selected_courses}} </p>
+                                </div>
+                                {% endfor %}
+
+
+                            </div>
+
+                            <div class=" col ">
+                                <img src="{{root}}png/Badge.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-0">
+                <div class=" pe-lg-2 mb-3">
+                    <div class="card h-lg-100 overflow-hidden">
+                        <div class="card-body p-0">
+                            <div class="table-responsive scrollbar">
+                                <table class="table table-dashboard mb-0 table-borderless fs--1 border-200">
+                                    <thead class="bg-body-tertiary">
+                                        <tr>
+                                            <th class="text-900">Course <span
+                                                    class="d-inline mx-3 bi bi-box-arrow-up-right"></span>
+                                            </th>
+                                            <th class="text-900 text-end">Points</th>
+                                            <th class="text-900 pe-x1 text-end" style="width: 8rem">Video done</th>
+                                            <th class="text-900 pe-x1 text-end" style="width: 8rem">Task done</th>
+
+                                            <th class="text-900 pe-x1 text-end" style="width: 8rem">Progress</th>
+                                            <th class="text-900 pe-x1 text-end" style="width: 8rem">Edit</th>
+
+                                        </tr>
+                                    </thead>
+                                    <tbody class="coursetable">
+                                        {% for item in coursedata %}
+
+                                        <tr class="border-bottom border-200" id="{{item.selected_courses}}">
+                                            <td>
+                                                <div class="d-flex align-items-center position-relative"><img
+                                                        class="rounded-1 border border-200"
+                                                        src="{{root}}png/bookicon.png" width="60" alt="" />
+                                                    <div class="flex-1 ms-3">
+                                                        <h6 class="mb-1 fw-semi-bold"><a
+                                                                class="text-1100 stretched-link "
+                                                                href="courses/{{item.selected_courses}}">
+                                                                {{item.selected_courses}} </a>
+                                                        </h6>
+
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td class="align-middle text-end fw-semi-bold">
+                                                {{coursedetails[item.selected_courses].points}}</td>
+                                            <td class="align-middle text-end fw-semi-bold">
+                                                {{coursedetails[item.selected_courses].videos_watched}}</td>
+
+                                            <td class="align-middle text-end fw-semi-bold">
+                                                {{coursedetails[item.selected_courses].answered_cards}}</td>
+                                            <td class="align-middle pe-x1">
+                                                <div class="d-flex align-items-center">
+                                                    <div class="progress me-3 rounded-3 bg-200"
+                                                        style="height: 5px; width:80px;" role="progressbar"
+                                                        aria-valuenow="{{coursedetails[item.selected_courses].course_progress}}"
+                                                        aria-valuemin="0" aria-valuemax="100">
+                                                        <div class="progress-bar rounded-pill"
+                                                            style='width:{{coursedetails[item.selected_courses].course_progress}}%;'>
+                                                        </div>
+                                                    </div>
+                                                    <div class="fw-semi-bold ms-2">
+                                                        {{coursedetails[item.selected_courses].course_progress}}%</div>
+                                                </div>
+                                            </td>
+                                            <td class="align-middle text-end fw-semi-bold">
+
+                                                <!-- Button HTML (to Trigger Modal) -->
+
+                                                <a href="#myModal" class="open-delete-model" data-toggle="modal"
+                                                    data-id="{{item.selected_courses}}">Delete</a>
+                                            </td>
+
+                                        </tr>
+
+                                        {% endfor %}
+
+
+                                    </tbody>
+                                </table>
+
+                                <div class="newcardwrap">
+
+
+                                    {% for item in coursedata %}
+
+                                    <div class="newcard">
+                                        <h3 class="card__title">{{item.selected_courses}}
+                                        </h3>
+                                        <p class="card__content">Your current xp :
+                                            {{coursedetails[item.selected_courses].xp}}</p>
+                                        <p class="card__content"> Course progress :
+                                            {{coursedetails[item.selected_courses].course_progress}} %</p>
+
+                                        <div class="card__date">
+
+                                        </div>
+                                        <a class="card__arrow" href="courses/{{item.selected_courses}}">
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                                                height="15" width="15">
+                                                <path fill="#fff"
+                                                    d="M13.4697 17.9697C13.1768 18.2626 13.1768 18.7374 13.4697 19.0303C13.7626 19.3232 14.2374 19.3232 14.5303 19.0303L20.3232 13.2374C21.0066 12.554 21.0066 11.446 20.3232 10.7626L14.5303 4.96967C14.2374 4.67678 13.7626 4.67678 13.4697 4.96967C13.1768 5.26256 13.1768 5.73744 13.4697 6.03033L18.6893 11.25H4C3.58579 11.25 3.25 11.5858 3.25 12C3.25 12.4142 3.58579 12.75 4 12.75H18.6893L13.4697 17.9697Z">
+                                                </path>
+                                        </a>
+                                    </div>
+
+                                    {% endfor %}
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="card-footer bg-body-tertiary py-2">
+                        <div class="row flex-between-center">
+                            <div class="col-auto"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+      
+
+        <link type="text/css" rel="stylesheet" href="https://cdn01.jotfor.ms/themes/CSS/form-common.css?v=3ed48a3
+" />
+        <style type="text/css">
+            @media print {
+                .form-section {
+                    display: inline !important
+                }
+
+                .form-pagebreak {
+                    display: none !important
+                }
+
+                .form-section-closed {
+                    height: auto !important
+                }
+
+                .page-section {
+                    position: initial !important
+                }
+            }
+        </style>
+        <link type="text/css" rel="stylesheet"
+            href="https://cdn02.jotfor.ms/themes/CSS/5e6b428acc8c4e222d1beb91.css?v=3.3.46287" />
+
+        <link type="text/css" rel="stylesheet" href="https://cdn02.jotfor.ms/stylebuilder/donationBox.css?v=3.3.46287">
+        <style type="text/css" id="form-designer-style">
+            /* Injected CSS Code */
+            /*PREFERENCES STYLE*/
+            .rating-item::before {
+                content: unset;
+            }
+
+            .rating-item:hover~.rating-item::before {
+                content: unset;
+            }
+
+            .form-all {
+                font-family: Inter, sans-serif;
+
+            }
+
+            .rating-item {
+                border: 1px solid #fff;
+                /* cursor: pointer; */
+                /* font-size: 2rem; */
+                /* color: var(--falcon-warning); */
+            }
+
+            .form-all .qq-upload-button,
+            .form-all .form-submit-button,
+            .form-all .form-submit-reset,
+            .form-all .form-submit-print {
+                font-family: Inter, sans-serif;
+            }
+
+            .form-all .form-pagebreak-back-container,
+            .form-all .form-pagebreak-next-container {
+                font-family: Inter, sans-serif;
+            }
+
+            .form-header-group {
+                font-family: Inter, sans-serif;
+            }
+
+            .form-label {
+                font-family: Inter, sans-serif;
+            }
+
+            .form-label.form-label-auto {
+
+                display: block;
+                float: none;
+                text-align: left;
+                width: 100%;
+
+            }
+
+            .form-line {
+                margin-top: 12px;
+                margin-bottom: 12px;
+            }
+
+            .form-all {
+                max-width: 752px;
+                width: 100%;
+            }
+
+            .form-label.form-label-left,
+            .form-label.form-label-right,
+            .form-label.form-label-left.form-label-auto,
+            .form-label.form-label-right.form-label-auto {
+                width: 230px;
+            }
+
+            .form-all {
+                font-size: 16px
+            }
+
+            .form-all .qq-upload-button,
+            .form-all .qq-upload-button,
+            .form-all .form-submit-button,
+            .form-all .form-submit-reset,
+            .form-all .form-submit-print {
+                font-size: 16px
+            }
+
+            .form-all .form-pagebreak-back-container,
+            .form-all .form-pagebreak-next-container {
+                font-size: 16px
+            }
+
+            .supernova .form-all,
+            .form-all {
+                background-color: #fff;
+            }
+
+            .form-all {
+                color: #1c3c8b;
+            }
+
+            .form-header-group .form-header {
+                color: #1c3c8b;
+            }
+
+            .form-header-group .form-subHeader {
+                color: #1c3c8b;
+            }
+
+            .form-label-top,
+            .form-label-left,
+            .form-label-right,
+            .form-html,
+            .form-checkbox-item label,
+            .form-radio-item label {
+                color: #1c3c8b;
+            }
+
+            .form-sub-label {
+                color: #3656a5;
+            }
+
+            .supernova {
+                background-color: #ecedf3;
+            }
+
+            .supernova body {
+                background: transparent;
+            }
+
+            .form-textbox,
+            .form-textarea,
+            .form-dropdown,
+            .form-radio-other-input,
+            .form-checkbox-other-input,
+            .form-captcha input,
+            .form-spinner input {
+                background-color: #fff;
+            }
+
+            .supernova {
+                background-image: none;
+            }
+
+            #stage {
+                background-image: none;
+            }
+
+            .form-all {
+                background-image: none;
+            }
+
+            .ie-8 .form-all:before {
+                display: none;
+            }
+
+            .ie-8 {
+                margin-top: auto;
+                margin-top: initial;
+            }
+
+            /*PREFERENCES STYLE*/
+            /*__INSPECT_SEPERATOR__*/
+            .form-all {
+                border: 5px solid #1D72E8 !important;
+            }
+
+            /* Injected CSS Code */
+        </style>
+
+        <form style="display: none;"  class="jotform-form onetimecontent" action="" method='' name='myform' action="" onsubmit="return false">
+
+            <div role="main" class="form-all">
+                <ul class="form-section page-section">
+                    <li id="cid_1" class="form-input-wide" data-type="control_head">
+                        <div class="form-header-group  header-large">
+                            <div class="header-text httal htvam">
+                                <h1 id="header_1" class="form-header" data-component="header">Select your course</h1>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="form-line" data-type="control_scale" id="id_3"><label
+                            class="form-label form-label-top form-label-auto" id="label_3" for="input_3"
+                            aria-hidden="false">
+                            Middle school </label>
+                        <div id="cid_3" class="form-input-wide" data-layout="full"> <span
+                                class="form-sub-label-container" style="vertical-align:top">
+                                <div role="radiogroup" aria-labelledby="label_3 sublabel_input_3_description"
+                                    cellPadding="4" cellSpacing="0" class="form-scale-table" data-component="scale">
+                                    <div class="rating-item-group">
+                                        <div class="rating-item"><span class="rating-item-title for-from"></span><input
+                                                type="radio" aria-describedby="label_3" class="form-radio" name="class"
+                                                value="Class-1" title="1" id="input_3_1" /><label
+                                                for="input_3_1">1</label>
+                                        </div>
+                                        <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                                class="form-radio" name="class" value="Class-2" title="2"
+                                                id="input_3_2" /><label for="input_3_2">2</label></div>
+                                        <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                                class="form-radio" name="class" value="Class-3" title="3"
+                                                id="input_3_3" /><label for="input_3_3">3</label></div>
+                                        <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                                class="form-radio" name="class" value="Class-4" title="4"
+                                                id="input_3_4" /><label for="input_3_4">4</label></div>
+                                        <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                                class="form-radio" name="class" value="Class-5" title="5"
+                                                id="input_3_5" /><label for="input_3_5">5</label></div>
+                                        <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                                class="form-radio" name="class" value="Class-6" title="6"
+                                                id="input_3_6" /><label for="input_3_6">6</label></div>
+                                        <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                                class="form-radio" name="class" value="Class-7" title="7"
+                                                id="input_3_7" /><label for="input_3_7">7</label></div>
+                                        <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                                class="form-radio" name="class" value="Class-8" title="8"
+                                                id="input_3_8" /><label for="input_3_8">8</label></div>
+                                        <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                                class="form-radio" name="class" value="Class-9" title="9"
+                                                id="input_3_9" /><label for="input_3_9">9</label></div>
+                                        <div class="rating-item"><span class="rating-item-title for-to"></span><input
+                                                type="radio" aria-describedby="label_3" class="form-radio" name="class"
+                                                value="Class-10" title="10" id="input_3_10" /><label
+                                                for="input_3_10">10</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span> </div>
+                    </li>
+                    <li class="form-line" data-type="control_scale" id="id_4"><label
+                            class="form-label form-label-top form-label-auto" id="label_4" for="input_4"
+                            aria-hidden="false">
+                            Higher secondary</label>
+                        <div id="cid_4" class="form-input-wide" data-layout="full"> <span
+                                class="form-sub-label-container" style="vertical-align:top">
+                                <div role="radiogroup" aria-labelledby="label_4 sublabel_input_4_description"
+                                    cellPadding="4" cellSpacing="0" class="form-scale-table" data-component="scale">
+                                    <div class="rating-item-group">
+                                        <div class="rating-item">
+
+                                            <input type="radio" aria-describedby="label_4" class="form-radio"
+                                                name="class" value="Class-1" title="1" id="input_4_1" /><label
+                                                for="input_4_1">+1</label>
+                                        </div>
+                                        <div class="rating-item"><input type="radio" aria-describedby="label_4"
+                                                class="form-radio" name="class" value="Class-2" title="2"
+                                                id="input_4_2" /><label for="input_4_2">+2</label></div>
+
+                                    </div>
+                                </div>
+
+
+                    <li class="form-line" data-type="control_button" id="id_2">
+                        <div id="cid_2" class="form-input-wide" data-layout="full">
+                            <div data-align="auto"
+                                class="form-buttons-wrapper form-buttons-auto   jsTest-button-wrapperField">
+                                <button id="input_2" type="submit"
+                                    class="form-submit-button form-submit-button-simple_blue submit-button jf-form-buttons jsTest-submitField btn-info"
+                                    data-component="button" data-content="" onclick='addCourse(this)'>Proceed</button>
+
+
+                            </div>
+                        </div>
+                    </li>
+                    </span>
+            </div>
+            </li>
+
+            </ul>
+    </div>
+
+    </form>
+
+
+
+    <script src="https://cdn.jotfor.ms//js/vendor/smoothscroll.min.js?v=3.3.46287"></script>
+    <script src="https://cdn.jotfor.ms//js/errorNavigation.js?v=3.3.46287"></script>
+    <button class="addcoursebtn btn btn-info text-white" onclick="add()">add course</button>
+
+    </div>
+
+
+</main>
+<!-- ===============================================--><!--    End of Main Content--><!-- ===============================================-->
+
+
+
+
+<script>
+    completedpercentage = '';
+
+    function toggle() {
+        document.querySelector('.d-none').classList.toggle('d-none')
+    }
+
+
+
+
+    function add() {
+        let maincontent = document.querySelector('.container > .content');
+        let formcontent = document.querySelector('.container > .onetimecontent');
+        maincontent.style.display = "none";
+        formcontent.style.display = "flex";
+        launch_notification('info', 'Only Class-5 is available right now ');
+
+
+    }
+
+    bannerCard = document.querySelectorAll('.xp-course');
+    let notification = document.querySelectorAll('.noti');
+
+
+    currentCardsIndex = 0;
+
+    function cycleImages() {
+        currentCardsIndex++;
+        if (currentCardsIndex === bannerCard.length) {
+            currentCardsIndex = 0;
+        }
+
+
+
+        let el = document.querySelector(".card-banner")
+        let card_banner = document.querySelector(".notification-wrap");
+
+        el.innerHTML = '';
+        el.append(bannerCard[currentCardsIndex])
+        card_banner.append(notification[currentCardsIndex])
+
+        //console.log(el)
+
+    }
+
+    // Start cycling the images.
+    setInterval(cycleImages, 6000);
+
+
+    $(document).on("click", ".open-delete-model", function () {
+        var myBookId = $(this).data('id');
+        $(".Class-name").text(myBookId);
+
+        $("#classId").val(myBookId);
+
+    });
+
+    //delete course 
+
+    function deleteCourse(e) {
+        const form = document.querySelector('input[name="Class-id"]');
+
+        deleteMethod(form.value);
+    }
+
+
+    function deleteMethod(id) {
+
+        axios({
+            method: "DELETE",
+            url: "../student/delete/" + id,
+            headers: {
+                "Content-Type": "application/json",
+            }
+        }).then(function (response) {
+            console.log(response.data);
+            if (true) {
+                const class_td = document.querySelector('#' + id);
+                class_td.remove();
+
+            }
+        }).catch(function (response) {
+            console.log(response);
+        });
+    }
+    //add course
+
+
+
+
+
+
+
+
+</script>
+
+{% else %}
+
+
+
+
+<link type="text/css" rel="stylesheet" href="https://cdn01.jotfor.ms/themes/CSS/form-common.css?v=3ed48a3
+" />
+<style type="text/css">
+    @media print {
+        .form-section {
+            display: inline !important
+        }
+
+        .form-pagebreak {
+            display: none !important
+        }
+
+        .form-section-closed {
+            height: auto !important
+        }
+
+        .page-section {
+            position: initial !important
+        }
+    }
+</style>
+<link type="text/css" rel="stylesheet"
+    href="https://cdn02.jotfor.ms/themes/CSS/5e6b428acc8c4e222d1beb91.css?v=3.3.46287" />
+
+<link type="text/css" rel="stylesheet" href="https://cdn02.jotfor.ms/stylebuilder/donationBox.css?v=3.3.46287">
+<style type="text/css" id="form-designer-style">
+    /* Injected CSS Code */
+    /*PREFERENCES STYLE*/
+    .rating-item::before {
+        content: unset;
+    }
+
+    .rating-item:hover~.rating-item::before {
+        content: unset;
+    }
+
+    .form-all {
+        font-family: Inter, sans-serif;
+
+    }
+
+    .rating-item {
+        border: 1px solid #fff;
+        /* cursor: pointer; */
+        /* font-size: 2rem; */
+        /* color: var(--falcon-warning); */
+    }
+
+    .form-all .qq-upload-button,
+    .form-all .form-submit-button,
+    .form-all .form-submit-reset,
+    .form-all .form-submit-print {
+        font-family: Inter, sans-serif;
+    }
+
+    .form-all .form-pagebreak-back-container,
+    .form-all .form-pagebreak-next-container {
+        font-family: Inter, sans-serif;
+        "★"
+    }
+
+    .form-header-group {
+        font-family: Inter, sans-serif;
+    }
+
+    .form-label {
+        font-family: Inter, sans-serif;
+    }
+
+    .form-label.form-label-auto {
+
+        display: block;
+        float: none;
+        text-align: left;
+        width: 100%;
+
+    }
+
+    .form-line {
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+
+    .form-all {
+        max-width: 752px;
+        width: 100%;
+    }
+
+    .form-label.form-label-left,
+    .form-label.form-label-right,
+    .form-label.form-label-left.form-label-auto,
+    .form-label.form-label-right.form-label-auto {
+        width: 230px;
+    }
+
+    .form-all {
+        font-size: 16px
+    }
+
+    .form-all .qq-upload-button,
+    .form-all .qq-upload-button,
+    .form-all .form-submit-button,
+    .form-all .form-submit-reset,
+    .form-all .form-submit-print {
+        font-size: 16px
+    }
+
+    .form-all .form-pagebreak-back-container,
+    .form-all .form-pagebreak-next-container {
+        font-size: 16px
+    }
+
+    .supernova .form-all,
+    .form-all {
+        background-color: #fff;
+    }
+
+    .form-all {
+        color: #1c3c8b;
+    }
+
+    .form-header-group .form-header {
+        color: #1c3c8b;
+    }
+
+    .form-header-group .form-subHeader {
+        color: #1c3c8b;
+    }
+
+    .form-label-top,
+    .form-label-left,
+    .form-label-right,
+    .form-html,
+    .form-checkbox-item label,
+    .form-radio-item label {
+        color: #1c3c8b;
+    }
+
+    .form-sub-label {
+        color: #3656a5;
+    }
+
+    .supernova {
+        background-color: #ecedf3;
+    }
+
+    .supernova body {
+        background: transparent;
+    }
+
+    .form-textbox,
+    .form-textarea,
+    .form-dropdown,
+    .form-radio-other-input,
+    .form-checkbox-other-input,
+    .form-captcha input,
+    .form-spinner input {
+        background-color: #fff;
+    }
+
+    .supernova {
+        background-image: none;
+    }
+
+    #stage {
+        background-image: none;
+    }
+
+    .form-all {
+        background-image: none;
+    }
+
+    .ie-8 .form-all:before {
+        display: none;
+    }
+
+    .ie-8 {
+        margin-top: auto;
+        margin-top: initial;
+    }
+
+    /*PREFERENCES STYLE*/
+    /*__INSPECT_SEPERATOR__*/
+    .form-all {
+        border: 5px solid #1D72E8 !important;
+    }
+
+    /* Injected CSS Code */
+</style>
+
+<form class="jotform-form onetimecontent" action="" method='' name='myform' action="" onsubmit="return false">
+
+    <div role="main" class="form-all">
+        <ul class="form-section page-section">
+            <li id="cid_1" class="form-input-wide" data-type="control_head">
+                <div class="form-header-group  header-large">
+                    <div class="header-text httal htvam">
+                        <h1 id="header_1" class="form-header" data-component="header">Select your course</h1>
+                    </div>
+                </div>
+            </li>
+            <li class="form-line" data-type="control_scale" id="id_3"><label
+                    class="form-label form-label-top form-label-auto" id="label_3" for="input_3" aria-hidden="false">
+                    Middle school </label>
+                <div id="cid_3" class="form-input-wide" data-layout="full"> <span class="form-sub-label-container"
+                        style="vertical-align:top">
+                        <div role="radiogroup" aria-labelledby="label_3 sublabel_input_3_description" cellPadding="4"
+                            cellSpacing="0" class="form-scale-table" data-component="scale">
+                            <div class="rating-item-group">
+                                <div class="rating-item"><span class="rating-item-title for-from"></span><input
+                                        type="radio" aria-describedby="label_3" class="form-radio" name="class"
+                                        value="Class-1" title="1" id="input_3_1" /><label for="input_3_1">1</label>
+                                </div>
+                                <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                        class="form-radio" name="class" value="Class-2" title="2"
+                                        id="input_3_2" /><label for="input_3_2">2</label></div>
+                                <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                        class="form-radio" name="class" value="Class-3" title="3"
+                                        id="input_3_3" /><label for="input_3_3">3</label></div>
+                                <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                        class="form-radio" name="class" value="Class-4" title="4"
+                                        id="input_3_4" /><label for="input_3_4">4</label></div>
+                                <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                        class="form-radio" name="class" value="Class-5" title="5"
+                                        id="input_3_5" /><label for="input_3_5">5</label></div>
+                                <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                        class="form-radio" name="class" value="Class-6" title="6"
+                                        id="input_3_6" /><label for="input_3_6">6</label></div>
+                                <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                        class="form-radio" name="class" value="Class-7" title="7"
+                                        id="input_3_7" /><label for="input_3_7">7</label></div>
+                                <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                        class="form-radio" name="class" value="Class-8" title="8"
+                                        id="input_3_8" /><label for="input_3_8">8</label></div>
+                                <div class="rating-item"><input type="radio" aria-describedby="label_3"
+                                        class="form-radio" name="class" value="Class-9" title="9"
+                                        id="input_3_9" /><label for="input_3_9">9</label></div>
+                                <div class="rating-item"><span class="rating-item-title for-to"></span><input
+                                        type="radio" aria-describedby="label_3" class="form-radio" name="class"
+                                        value="Class-10" title="10" id="input_3_10" /><label for="input_3_10">10</label>
+                                </div>
+                            </div>
+                        </div>
+                    </span> </div>
+            </li>
+            <li class="form-line" data-type="control_scale" id="id_4"><label
+                    class="form-label form-label-top form-label-auto" id="label_4" for="input_4" aria-hidden="false">
+                    Higher secondary</label>
+                <div id="cid_4" class="form-input-wide" data-layout="full"> <span class="form-sub-label-container"
+                        style="vertical-align:top">
+                        <div role="radiogroup" aria-labelledby="label_4 sublabel_input_4_description" cellPadding="4"
+                            cellSpacing="0" class="form-scale-table" data-component="scale">
+                            <div class="rating-item-group">
+                                <div class="rating-item">
+
+                                    <input type="radio" aria-describedby="label_4" class="form-radio" name="class"
+                                        value="Class-1" title="1" id="input_4_1" /><label for="input_4_1">+1</label>
+                                </div>
+                                <div class="rating-item"><input type="radio" aria-describedby="label_4"
+                                        class="form-radio" name="class" value="Class-2" title="2"
+                                        id="input_4_2" /><label for="input_4_2">+2</label></div>
+
+                            </div>
+                        </div>
+
+
+            <li class="form-line" data-type="control_button" id="id_2">
+                <div id="cid_2" class="form-input-wide" data-layout="full">
+                    <div data-align="auto" class="form-buttons-wrapper form-buttons-auto   jsTest-button-wrapperField">
+                        <button id="input_2" type="submit"
+                            class="form-submit-button form-submit-button-simple_blue submit-button jf-form-buttons jsTest-submitField"
+                            data-component="button" data-content="" onclick='addCourse(this)'>Proceed</button>
+
+
+                    </div>
+                </div>
+            </li>
+            </span>
+    </div>
+    </li>
+
+    </ul>
+    </div>
+
+</form>
+
+
+
+<script src="https://cdn.jotfor.ms//js/vendor/smoothscroll.min.js?v=3.3.46287"></script>
+<script src="https://cdn.jotfor.ms//js/errorNavigation.js?v=3.3.46287"></script>
+<script>
+    launch_notification = (type, message) => {
+        if (message) {
+            document.getElementById("desc").innerText = message
+
+
+        }
+
+        let notification = document.getElementById("toast")
+        notification.className = "show";
+        notification.classList.add('bg-' + type);
+        setTimeout(() => { notification.className = notification.className.replace("show", ""); }, 4000);
+    }
+    launch_notification('info', 'Only Class-5 is available right now ');
+</script>
+{% endif %}
+<script>
+
+    //add course
+
+    function addCourse() {
+        const formData = new FormData(document.querySelector('.onetimecontent'));
+        const coursename = formData.get('class');
+        console.log(name)
+
+
+
+        axios({
+            method: "POST",
+            url: "../student/addcourse",
+            data: JSON.stringify(coursename),
+            headers: {
+                "Content-Type": "application/json",
+            }
+        }).then(function (response) {
+            const result = (response.data);
+            console.log(result)
+            if (result) {
+
+
+                location.reload();
+
+
+
+            } else {
+                let maincontent = document.querySelector('.container > .content');
+                let formcontent = document.querySelector('.container > .onetimecontent');
+                maincontent.style.display = "block";
+                formcontent.style.display = "none";
+            }
+        }).catch(function (response) {
+            console.log(response);
+        });
+
+
+    }
+
+
+
+
+
+
+
+
+</script>
+
+{% endblock %}

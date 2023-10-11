@@ -1,0 +1,147 @@
+{% extends "welcomebase.html" %}
+{% block title %}About us{% endblock %} 
+{% block body %}
+<style>
+  #myCarousel {
+    margin-top: 60px;
+    margin-bottom: 55px;
+  }
+
+  .cssanimation,
+  .cssanimation {
+    animation-duration: 3s;
+    animation-fill-mode: both;
+  }
+
+
+  .fadeInBottom {
+    animation-name: fadeInBottom
+  }
+
+  @keyframes fadeInBottom {
+    from {
+      opacity: 0;
+      transform: translateX(100%);
+    }
+
+    to {
+      opacity: 1
+    }
+  }
+
+  .comment {
+    display: none;
+  }
+
+  .comment:nth-child(2) {
+    display: block;
+  }
+</style>
+
+<section id="hero" class="d-flex align-items-center ">
+    <h1 class="text-white m-auto heading" data-aos="zoom-in" data-aos-delay="100">About us</h1>
+     </section>
+     
+      
+       <section class="container d-flex text-center align-items-center personalized" data-aos="zoom-in" data-aos-delay="100">
+         <img src="assets/png/personalize.png" width="30%" alt="" srcset="">
+       <div class="info mx-5">
+         <h1>Start your journey with us</h1>
+         <p>We focus on skill mastery to help learners establish strong 
+           foundation . So theirs no limit to what they can learn next</p>
+       </div>
+   </section>
+
+
+       <section class="container d-flex text-center align-items-center travelwith mt-0 pt-0" data-aos="zoom-in" data-aos-delay="100">
+           <div class="info mx-5">
+             <h1>Start your journey with us</h1>
+             <p>We focus on skill mastery to help learners establish strong 
+               foundation . So theirs no limit to what they can learn next</p>
+           </div>
+           <img src="assets/png/travelwith.png" width="30%" alt="" srcset="">
+       </section>
+       <hr class="bg-secondary container ">
+       <!-- review section -->
+<section class="container text-center carousel slide " id="myCarousel" data-ride="carousel">
+  <div class="comment-wrap">
+    <div class="comment     cssanimation sequence fadeInBottom">
+      <img src="assets/png/quotes.png" alt="" width="3%" class="img-fluid">
+      <p>BESQUARE ACADEMY is easily the nest place that I know for
+        have a well learning maths . I would like to than you guys for
+        making this possible.. </p>
+    </div>
+    <div class="comment     cssanimation sequence fadeInBottom">
+      <img src="assets/png/quotes.png" alt="" width="3%" class="img-fluid">
+      <p>BESQUARE ACADEMY is easily the nest place that I know for
+        have a well learning maths . I would like to than you guys for
+        making this possible.. </p>
+    </div>
+    <div class="comment     cssanimation sequence fadeInBottom">
+      <img src="assets/png/quotes.png" alt="" width="3%" class="img-fluid">
+      <p>BESQUARE ACADEMY is easily the nest place that I know for
+        have a well learning maths . I would like to than you guys for
+        making this possible.. </p>
+    </div>
+  </div>
+  <div class="people d-flex text-center  mt-3 commentsection">
+    <div class="person  item    cssanimation sequence fadeInBottom">
+
+      <div>
+        <p>salman</p>
+        <p>January/12/2022</p>
+      </div>
+      <div>
+        <img src="assets/png/hareesh.png" alt="" width="10%" class="img-fluid rounded personImg">
+      </div>
+    </div>
+    <div class="person item    cssanimation sequence fadeInBottom">
+      <p>Hareesh</p>
+      <p>January/12/2022</p>
+      <img src="assets/png/hareesh.png" alt="" width="10%" class="img-fluid rounded personImg">
+    </div>
+    <div class="person item   cssanimation sequence fadeInBottom">
+      <p>naveen</p>
+      <p>January/12/2022</p>
+      <img src="assets/png/hareesh.png" alt="" width="10%" class="img-fluid rounded personImg">
+    </div>
+  </div>
+</section>
+<!-- review section end-->
+    <script>
+
+      bannerCard = document.querySelectorAll('.commentsection .person');
+      console.log(bannerCard);
+      comments = document.querySelectorAll('.comment');
+
+
+      currentCardsIndex = 0;
+
+      function cycleImages() {
+        currentCardsIndex++;
+        if (currentCardsIndex === comments.length) {
+          currentCardsIndex = 0;
+        }
+
+        let el = document.querySelector(".commentsection")
+        let comment = document.querySelector(".comment-wrap")
+
+        el.innerHTML = ''
+        //comment.innerHTML = ''
+        comment.append(comments[currentCardsIndex])
+
+
+
+        el.append(bannerCard[currentCardsIndex])
+
+        //console.log(el)
+
+      }
+
+      setInterval(() => {
+        cycleImages()
+      }, 5000);
+
+    </script>
+{% endblock %}
+

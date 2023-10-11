@@ -1,0 +1,2185 @@
+/* calendar */
+.filterSearch .inputBox {
+    display :flex;
+  }
+  .select {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-bottom: 1rem
+  }
+  
+  .select:nth-last-child(1) {
+    justify-self: flex-start
+  }
+  
+  .select label {
+    margin-bottom: 2.75rem
+  }
+  
+  .select .options {
+    position: absolute;
+    top: 1.75rem;
+    left: 0;
+    width: 100%;
+    height: 34px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background-color: var(--white);
+    border: 1px solid var(--borderGray);
+    border-radius: var(--inputRadius);
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+    overflow: hidden
+  }
+  
+  .select .options:hover {
+    height: auto;
+    overflow: auto;
+    z-index: 10;
+    border: 1px solid var(--inputColor2);
+    background-color: var(--lightGray)
+  }
+  
+  .select .options:active {
+    border: 1px solid var(--inputColor3);
+    background-color: var(--lightGray)
+  }
+  
+  .select .options:focus {
+    border: 1px solid var(--inputColor4);
+    background-color: var(--lightGray)
+  }
+  
+  .select .options:visited {
+    border: 1px solid var(--inputColor1)
+  }
+  
+  .select .options [data-label] {
+    order: 2;
+    border: none;
+    border-radius: 0;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+    cursor: pointer
+  }
+  
+  .select .options [data-label]:nth-last-child(1) {
+    border-bottom: none
+  }
+  
+  .select .options [data-label]:hover {
+    background-color: #ebedf3
+  }
+  
+  .select .options [data-label]:hover::before {
+    color: var(--color1)
+  }
+  
+  .select .options [data-label]:checked {
+    order: 1
+  }
+  
+  .select .options [data-label]::before {
+    content: attr(data-label);
+    display: block;
+    color: #1b1b1b;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: .889rem;
+    font-weight: 500;
+    cursor: pointer
+  }
+  
+  .select .options [data-icon]::after {
+    content: url("attr(data-icon)");
+    display: block;
+    color: #5d5e5f;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: .79rem;
+    font-weight: 500;
+    cursor: pointer
+  }
+  
+  .filterSearch {
+    width: 100%;
+    min-width: 100%;
+    overflow: hidden;
+    display: flex;
+    background-color: var(--white)
+  }
+  
+  @media(min-width: 768px) {
+    .filterSearch {
+        min-width: auto;
+        width: 400px !important;
+        max-width: 400px !important
+    }
+  }
+  
+  .filterSearch .inputBox {
+    border: 1px solid var(--borderGray);
+    border-radius: var(--inputRadius);
+    transition: .5s cubic-bezier(0.37, 0, 0.63, 1)
+  }
+  
+  .filterSearch .inputBox:hover {
+    border: 1px solid var(--inputColor2)
+  }
+  
+  .filterSearch .inputBox select,
+  .filterSearch .inputBox input {
+    border: none;
+    background-color: var(--white)
+  }
+  
+  .filterSearch .inputBox select {
+    width: auto;
+    min-width: 120px;
+    z-index: 1;
+    border-radius: var(--inputRadius) 0 0 var(--inputRadius);
+    border-right: 1px solid var(--borderGray)
+  }
+  
+  .filterSearch .inputBox input {
+    left: -1px;
+    flex: 1;
+    font-family: "Poppins", sans-serif;
+    padding: .7rem 1rem;
+    padding-right: 46px !important;
+    border: none !important;
+    border-radius: 0 var(--inputRadius) var(--inputRadius) 0
+  }
+  
+  .filterSearch .inputBox button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    height: 100%;
+    padding: .5rem 1rem;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 0 var(--inputRadius) var(--inputRadius) 0;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .filterSearch .inputBox button:hover {
+    border: 1px solid rgba(0, 0, 0, 0);
+    background-color: var(--color2)
+  }
+  
+  .filterSearch .inputBox button:hover i {
+    color: var(--white)
+  }
+  
+  .filterSearch .inputBox button i {
+    color: var(--color1);
+    font-size: 1.266rem;
+    cursor: pointer;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .search {
+    max-width: 600px;
+    overflow: hidden;
+    display: flex
+  }
+  
+  .search input {
+    flex: 1;
+    font-family: "Poppins", sans-serif;
+    padding: .7rem 1rem;
+    border: none;
+    padding-right: 46px !important
+  }
+  
+  .search button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    padding: .75rem 1rem;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: var(--inputRadius);
+    cursor: pointer;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .search button:hover {
+    background-color: var(--lightGray);
+    border: 1px solid var(--borderGray)
+  }
+  
+  .search button:hover i {
+    color: var(--color2)
+  }
+  
+  .search button i {
+    color: var(--color3);
+    font-size: 2.281rem;
+    cursor: pointer;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .dataList {
+    max-width: 600px
+  }
+  
+  .dataList .inputBox button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    padding: .75rem 1rem;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: var(--inputRadius);
+    pointer-events: none;
+    cursor: pointer;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .dataList .inputBox button::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--white);
+    border-radius: var(--inputRadius)
+  }
+  
+  .dataList .inputBox button i {
+    color: var(--color3);
+    font-size: 2.281rem;
+    cursor: pointer;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .customInput {
+    max-width: 600px
+  }
+  
+  .customInput label input {
+    min-width: auto;
+    font-size: .79rem;
+    font-weight: 600;
+    border: none;
+    padding: 0
+  }
+  
+  .customInput label input:hover,
+  .customInput label input :active,
+  .customInput label input :visited,
+  .customInput label input :focus,
+  .customInput label input :focus-visible,
+  .customInput label input :focus-within,
+  .customInput label input :target {
+    background-color: var(--white) !important;
+    border: none !important
+  }
+  
+  .customInput .moreBtn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: .75rem;
+    border-radius: var(--inputRadius);
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .customInput .moreBtn .btnMenu {
+    top: unset !important;
+    bottom: 100%
+  }
+  
+  .uploadInput:hover .inputBox {
+    border: 1px dashed var(--inputColor4)
+  }
+  
+  .uploadInput:hover .inputBox label {
+    color: var(--color3)
+  }
+  
+  .uploadInput .inputBox {
+    border: 1px dashed var(--inputColor2);
+    border-radius: var(--inputRadius);
+    overflow: hidden;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .uploadInput .inputBox label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color2);
+    pointer-events: none;
+    cursor: pointer;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .uploadInput .inputBox label i {
+    margin-right: .5rem;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .uploadInput .inputBox input {
+    opacity: 0;
+    z-index: 1;
+    cursor: pointer
+  }
+  
+  .filterSelectBox {
+    width: 100%;
+    font-family: "Poppins", sans-serif;
+    color: var(--black);
+    font-size: .702rem;
+    font-weight: 500;
+    padding: .75rem;
+    background-color: var(--white);
+    border: 1px solid var(--inputBorder);
+    border-radius: var(--inputRadius);
+    margin-right: 1rem;
+    cursor: pointer;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .filterSelectBox:hover {
+    background-color: var(--white);
+    border: 1px solid #3cc274
+  }
+  
+  .inputEditor {
+    padding-top: 0
+  }
+  
+  .inputEditor .ql-container.ql-snow {
+    border: 1px solid var(--inputBorder) !important;
+    border-radius: var(--inputRadius)
+  }
+  
+  .inputEditor .ql-toolbar.ql-snow {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    width: 100%;
+    border: none;
+    border-top: 1px solid var(--borderGray);
+    border-radius: .25rem
+  }
+  
+  .inputEditor textarea {
+    height: 200px;
+    border: 1px solid var(--inputBorder) !important;
+    padding-bottom: 3.052rem !important
+  }
+  
+  .radioBtn {
+    max-width: 600px;
+    padding-top: .5rem !important
+  }
+  
+  .radioBtn label {
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin-bottom: .75rem
+  }
+  
+  .radioBtn ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: .75rem
+  }
+  
+  .radioBtn ul li label {
+    margin-top: 0;
+    margin-bottom: 0
+  }
+  
+  .radioBtnRow {
+    max-width: 600px
+  }
+  
+  .radioBtnRow label {
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin-bottom: .75rem
+  }
+  
+  .radioBtnRow ul {
+    display: flex
+  }
+  
+  .radioBtnRow ul li {
+    display: flex;
+    align-items: center;
+    margin-right: 1rem
+  }
+  
+  .radioBtnRow ul li label {
+    margin-top: 0;
+    margin-bottom: 0
+  }
+  
+  .checkbox {
+    max-width: 600px;
+    padding-top: .5rem
+  }
+  
+  .checkbox label {
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin-bottom: .75rem
+  }
+  
+  .checkbox ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem
+  }
+  
+  .checkbox ul li label {
+    margin-top: 0;
+    margin-bottom: 0
+  }
+  
+  .checkboxRow {
+    max-width: 600px
+  }
+  
+  .checkboxRow label {
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin-bottom: .75rem
+  }
+  
+  .checkboxRow ul {
+    display: flex;
+    flex-wrap: wrap
+  }
+  
+  .checkboxRow ul li {
+    display: flex;
+    align-items: center;
+    margin-right: 1rem
+  }
+  
+  .checkboxRow ul li label {
+    margin-top: 0;
+    margin-bottom: 0 !important
+  }
+  
+  .switchBtn {
+    max-width: 600px;
+    display: flex;
+    align-items: center
+  }
+  
+  .switchBtn label {
+    position: relative;
+    top: 0;
+    left: 0
+  }
+  
+  #reportrange {
+    height: 46px;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--white);
+    padding: .7rem;
+    border-radius: var(--inputRadius);
+    border: 1px solid var(--borderGray);
+    font-size: .889rem;
+    cursor: pointer
+  }
+  
+  #reportrange i {
+    color: var(--visibleGray);
+    cursor: pointer
+  }
+  
+  #reportrange .value {
+    margin: 0 .5rem;
+    margin-right: auto;
+    cursor: pointer
+  }
+  
+  .subTypeinputDiv .subTypeInput {
+    margin-top: 1rem
+  }
+  
+  .multiCheckbox label {
+    z-index: 3
+  }
+  
+  .multiCheckbox .inputbox .checkboxField {
+    color: var(--color2);
+    font-size: .889rem;
+    font-weight: 500;
+    background-color: var(--white);
+    border: 1px solid var(--inputBorder);
+    border-radius: var(--inputRadius);
+    padding: .75rem 1rem;
+    z-index: 2;
+    cursor: pointer;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .multiCheckbox .inputbox .checkboxField:hover {
+    background-color: var(--lightGray)
+  }
+  
+  .multiCheckbox .inputbox .checkboxField::placeholder {
+    font-size: .889rem;
+    font-weight: 500;
+    color: var(--darkGray)
+  }
+  
+  .multiCheckbox .inputbox i {
+    position: absolute;
+    top: 30%;
+    right: 1rem;
+    z-index: 2
+  }
+  
+  .multiCheckbox .checkboxListDivIntro {
+    display: block !important;
+    box-shadow: rgba(17, 12, 46, .15) 0px 48px 100px 0px !important;
+    padding-top: .5rem
+  }
+  
+  .multiCheckbox .checkboxListDiv {
+    width: 100%;
+    min-width: 200px;
+    max-width: 600px;
+    min-width: max-content;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 3;
+    display: none;
+    margin-top: 0;
+    background-color: var(--white);
+    text-align: left;
+    border: 1px solid var(--borderGray);
+    border-top: none;
+    border-radius: 0 0 var(--radius) var(--radius);
+    overflow: hidden;
+    box-shadow: rgba(17, 12, 46, 0) 0px 48px 100px 0px
+  }
+  
+  .multiCheckbox .checkboxListDiv li {
+    display: flex;
+    align-items: center;
+    padding: .5rem 1rem;
+    background-color: var(--white);
+    border-bottom: 1px solid var(--lightGray);
+    cursor: pointer;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .multiCheckbox .checkboxListDiv li:hover label {
+    color: var(--black)
+  }
+  
+  .multiCheckbox .checkboxListDiv li input {
+    z-index: 2
+  }
+  
+  .multiCheckbox .checkboxListDiv li label {
+    z-index: 1;
+    white-space: nowrap;
+    margin: 0;
+    margin-left: .75rem;
+    background-color: rgba(0, 0, 0, 0);
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .multiCheckbox .checkboxClose {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 2
+  }
+  
+  .addInputField {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center
+  }
+  
+  .addInputField .inputDiv,
+  .addInputField .filterSearch {
+    margin-bottom: 0
+  }
+  
+  .addInputField .inputDiv input,
+  .addInputField .filterSearch input {
+    border-right: none
+  }
+  
+  [reminder=active] {
+    border: 1px solid #b6f3b6
+  }
+  
+  [reminder=done] {
+    background-color: #ecffef
+  }
+  
+  [reminder=done] .btn {
+    display: none
+  }
+  
+  [reminder=cancel] {
+    background-color: var(--lightGray);
+    border: 1px solid var(--borderGray);
+    opacity: .5
+  }
+  
+  [reminder=cancel] .btn {
+    display: none
+  }
+  
+  .labelMovingAnimation {
+    display: block;
+    margin-bottom: 1rem
+  }
+  
+  .labelMovingAnimation label {
+    pointer-events: none;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+    display: inline-block;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    margin: 0
+  }
+  
+  .labelMovingAnimation input:placeholder-shown+label {
+    top: 1rem;
+    left: 1rem;
+    color: var(--color1);
+    font-size: .9rem;
+    font-weight: 400
+  }
+  
+  .labelMovingAnimation input:not(:placeholder-shown)~label {
+    top: 1rem;
+    left: 1rem;
+    color: var(--color1);
+    font-size: .9rem;
+    font-weight: 400
+  }
+  
+  .labelMovingAnimation textarea:placeholder-shown+label {
+    top: 1rem;
+    left: 1rem;
+    color: var(--color1);
+    font-size: .9rem;
+    font-weight: 400
+  }
+  
+  .labelMovingAnimation textarea:not(:placeholder-shown)~label {
+    top: 1rem;
+    left: 1rem;
+    color: var(--color1);
+    font-size: .9rem;
+    font-weight: 400
+  }
+  
+  .labelMovingAnimation input:focus+label,
+  .labelMovingAnimation input:not(:placeholder-shown)+label,
+  .labelMovingAnimation textarea:focus+label,
+  .labelMovingAnimation textarea:not(:placeholder-shown)+label {
+    top: -15px;
+    left: 5px;
+    color: var(--color3);
+    font-size: .889rem;
+    font-weight: 600;
+    background-color: var(--white);
+    padding: .5rem
+  }
+  .filterSearch .inputBox {
+      border: 1px solid var(--borderGray);
+      border-radius: var(--inputRadius);
+      transition: .5s cubic-bezier(0.37, 0, 0.63, 1)
+  }
+  
+  .filterSearch .inputBox:hover {
+      border: 1px solid var(--inputColor2)
+  }
+  
+  .filterSearch .inputBox select,
+  .filterSearch .inputBox input {
+      border: none;
+      background-color: var(--white)
+  }
+  
+  .filterSearch .inputBox select {
+      width: auto;
+      min-width: 120px;
+      z-index: 1;
+      border-radius: var(--inputRadius) 0 0 var(--inputRadius);
+      border-right: 1px solid var(--borderGray)
+  }
+  
+  .filterSearch .inputBox input {
+      left: -1px;
+      flex: 1;
+      font-family: "Poppins", sans-serif;
+      padding: .7rem 1rem;
+      padding-right: 46px !important;
+      border: none !important;
+      border-radius: 0 var(--inputRadius) var(--inputRadius) 0
+  }
+  
+  .filterSearch .inputBox button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      z-index: 2;
+      height: 100%;
+      padding: .5rem 1rem;
+      background-color: rgba(0, 0, 0, 0);
+      border: 1px solid rgba(0, 0, 0, 0);
+      border-radius: 0 var(--inputRadius) var(--inputRadius) 0;
+      overflow: hidden;
+      cursor: pointer;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .filterSearch .inputBox button:hover {
+      border: 1px solid rgba(0, 0, 0, 0);
+      background-color: var(--color2)
+  }
+  
+  .filterSearch .inputBox button:hover i {
+      color: var(--white)
+  }
+  
+  .filterSearch .inputBox button i {
+      color: var(--color1);
+      font-size: 1.266rem;
+      cursor: pointer;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .search {
+      max-width: 600px;
+      overflow: hidden;
+      display: flex
+  }
+  
+  .search input {
+      flex: 1;
+      font-family: "Poppins", sans-serif;
+      padding: .7rem 1rem;
+      border: none;
+      padding-right: 46px !important
+  }
+  
+  .search button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+      padding: .75rem 1rem;
+      background-color: rgba(0, 0, 0, 0);
+      border: 1px solid rgba(0, 0, 0, 0);
+      border-radius: var(--inputRadius);
+      cursor: pointer;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .search button:hover {
+      background-color: var(--lightGray);
+      border: 1px solid var(--borderGray)
+  }
+  
+  .search button:hover i {
+      color: var(--color2)
+  }
+  
+  .search button i {
+      color: var(--color3);
+      font-size: 2.281rem;
+      cursor: pointer;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .dataList {
+      max-width: 600px
+  }
+  
+  .dataList .inputBox button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+      padding: .75rem 1rem;
+      background-color: rgba(0, 0, 0, 0);
+      border: 1px solid rgba(0, 0, 0, 0);
+      border-radius: var(--inputRadius);
+      pointer-events: none;
+      cursor: pointer;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .dataList .inputBox button::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: var(--white);
+      border-radius: var(--inputRadius)
+  }
+  
+  .dataList .inputBox button i {
+      color: var(--color3);
+      font-size: 2.281rem;
+      cursor: pointer;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .customInput {
+      max-width: 600px
+  }
+  
+  .customInput label input {
+      min-width: auto;
+      font-size: .79rem;
+      font-weight: 600;
+      border: none;
+      padding: 0
+  }
+  
+  .customInput label input:hover,
+  .customInput label input :active,
+  .customInput label input :visited,
+  .customInput label input :focus,
+  .customInput label input :focus-visible,
+  .customInput label input :focus-within,
+  .customInput label input :target {
+      background-color: var(--white) !important;
+      border: none !important
+  }
+  
+  .customInput .moreBtn {
+      position: absolute;
+      top: 0;
+      right: 0;
+      padding: .75rem;
+      border-radius: var(--inputRadius);
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .customInput .moreBtn .btnMenu {
+      top: unset !important;
+      bottom: 100%
+  }
+  
+  .uploadInput:hover .inputBox {
+      border: 1px dashed var(--inputColor4)
+  }
+  
+  .uploadInput:hover .inputBox label {
+      color: var(--color3)
+  }
+  
+  .uploadInput .inputBox {
+      border: 1px dashed var(--inputColor2);
+      border-radius: var(--inputRadius);
+      overflow: hidden;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .uploadInput .inputBox label {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--color2);
+      pointer-events: none;
+      cursor: pointer;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .uploadInput .inputBox label i {
+      margin-right: .5rem;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .uploadInput .inputBox input {
+      opacity: 0;
+      z-index: 1;
+      cursor: pointer
+  }
+  
+  .filterSelectBox {
+      width: 100%;
+      font-family: "Poppins", sans-serif;
+      color: var(--black);
+      font-size: .702rem;
+      font-weight: 500;
+      padding: .75rem;
+      background-color: var(--white);
+      border: 1px solid var(--inputBorder);
+      border-radius: var(--inputRadius);
+      margin-right: 1rem;
+      cursor: pointer;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .filterSelectBox:hover {
+      background-color: var(--white);
+      border: 1px solid #3cc274
+  }
+  
+  .inputEditor {
+      padding-top: 0
+  }
+  
+  .inputEditor .ql-container.ql-snow {
+      border: 1px solid var(--inputBorder) !important;
+      border-radius: var(--inputRadius)
+  }
+  
+  .inputEditor .ql-toolbar.ql-snow {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      z-index: 100;
+      width: 100%;
+      border: none;
+      border-top: 1px solid var(--borderGray);
+      border-radius: .25rem
+  }
+  
+  .inputEditor textarea {
+      height: 200px;
+      border: 1px solid var(--inputBorder) !important;
+      padding-bottom: 3.052rem !important
+  }
+  
+  .radioBtn {
+      max-width: 600px;
+      padding-top: .5rem !important
+  }
+  
+  .radioBtn label {
+      position: relative;
+      top: 0;
+      left: 0;
+      padding: 0;
+      margin-bottom: .75rem
+  }
+  
+  .radioBtn ul li {
+      display: flex;
+      align-items: center;
+      margin-bottom: .75rem
+  }
+  
+  .radioBtn ul li label {
+      margin-top: 0;
+      margin-bottom: 0
+  }
+  
+  .radioBtnRow {
+      max-width: 600px
+  }
+  
+  .radioBtnRow label {
+      position: relative;
+      top: 0;
+      left: 0;
+      padding: 0;
+      margin-bottom: .75rem
+  }
+  
+  .radioBtnRow ul {
+      display: flex
+  }
+  
+  .radioBtnRow ul li {
+      display: flex;
+      align-items: center;
+      margin-right: 1rem
+  }
+  
+  .radioBtnRow ul li label {
+      margin-top: 0;
+      margin-bottom: 0
+  }
+  
+  .checkbox {
+      max-width: 600px;
+      padding-top: .5rem
+  }
+  
+  .checkbox label {
+      position: relative;
+      top: 0;
+      left: 0;
+      padding: 0;
+      margin-bottom: .75rem
+  }
+  
+  .checkbox ul li {
+      display: flex;
+      align-items: center;
+      margin-bottom: 1rem
+  }
+  
+  .checkbox ul li label {
+      margin-top: 0;
+      margin-bottom: 0
+  }
+  
+  .checkboxRow {
+      max-width: 600px
+  }
+  
+  .checkboxRow label {
+      position: relative;
+      top: 0;
+      left: 0;
+      padding: 0;
+      margin-bottom: .75rem
+  }
+  
+  .checkboxRow ul {
+      display: flex;
+      flex-wrap: wrap
+  }
+  
+  .checkboxRow ul li {
+      display: flex;
+      align-items: center;
+      margin-right: 1rem
+  }
+  
+  .checkboxRow ul li label {
+      margin-top: 0;
+      margin-bottom: 0 !important
+  }
+  
+  .switchBtn {
+      max-width: 600px;
+      display: flex;
+      align-items: center
+  }
+  
+  .switchBtn label {
+      position: relative;
+      top: 0;
+      left: 0
+  }
+  
+  #reportrange {
+      height: 46px;
+      max-width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background-color: var(--white);
+      padding: .7rem;
+      border-radius: var(--inputRadius);
+      border: 1px solid var(--borderGray);
+      font-size: .889rem;
+      cursor: pointer
+  }
+  
+  #reportrange i {
+      color: var(--visibleGray);
+      cursor: pointer
+  }
+  
+  #reportrange .value {
+      margin: 0 .5rem;
+      margin-right: auto;
+      cursor: pointer
+  }
+  
+  .subTypeinputDiv .subTypeInput {
+      margin-top: 1rem
+  }
+  
+  .multiCheckbox label {
+      z-index: 3
+  }
+  
+  .multiCheckbox .inputbox .checkboxField {
+      color: var(--color2);
+      font-size: .889rem;
+      font-weight: 500;
+      background-color: var(--white);
+      border: 1px solid var(--inputBorder);
+      border-radius: var(--inputRadius);
+      padding: .75rem 1rem;
+      z-index: 2;
+      cursor: pointer;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .multiCheckbox .inputbox .checkboxField:hover {
+      background-color: var(--lightGray)
+  }
+  
+  .multiCheckbox .inputbox .checkboxField::placeholder {
+      font-size: .889rem;
+      font-weight: 500;
+      color: var(--darkGray)
+  }
+  
+  .multiCheckbox .inputbox i {
+      position: absolute;
+      top: 30%;
+      right: 1rem;
+      z-index: 2
+  }
+  
+  .multiCheckbox .checkboxListDivIntro {
+      display: block !important;
+      box-shadow: rgba(17, 12, 46, .15) 0px 48px 100px 0px !important;
+      padding-top: .5rem
+  }
+  
+  .multiCheckbox .checkboxListDiv {
+      width: 100%;
+      min-width: 200px;
+      max-width: 600px;
+      min-width: max-content;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      z-index: 3;
+      display: none;
+      margin-top: 0;
+      background-color: var(--white);
+      text-align: left;
+      border: 1px solid var(--borderGray);
+      border-top: none;
+      border-radius: 0 0 var(--radius) var(--radius);
+      overflow: hidden;
+      box-shadow: rgba(17, 12, 46, 0) 0px 48px 100px 0px
+  }
+  
+  .multiCheckbox .checkboxListDiv li {
+      display: flex;
+      align-items: center;
+      padding: .5rem 1rem;
+      background-color: var(--white);
+      border-bottom: 1px solid var(--lightGray);
+      cursor: pointer;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .multiCheckbox .checkboxListDiv li:hover label {
+      color: var(--black)
+  }
+  
+  .multiCheckbox .checkboxListDiv li input {
+      z-index: 2
+  }
+  
+  .multiCheckbox .checkboxListDiv li label {
+      z-index: 1;
+      white-space: nowrap;
+      margin: 0;
+      margin-left: .75rem;
+      background-color: rgba(0, 0, 0, 0);
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  .multiCheckbox .checkboxClose {
+      display: none;
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100vh;
+      z-index: 2
+  }
+  
+  .addInputField {
+      display: flex;
+      align-items: flex-end;
+      justify-content: center
+  }
+  
+  .addInputField .inputDiv,
+  .addInputField .filterSearch {
+      margin-bottom: 0
+  }
+  
+  .addInputField .inputDiv input,
+  .addInputField .filterSearch input {
+      border-right: none
+  }
+  
+  [reminder=active] {
+      border: 1px solid #b6f3b6
+  }
+  
+  [reminder=done] {
+      background-color: #ecffef
+  }
+  
+  [reminder=done] .btn {
+      display: none
+  }
+  
+  [reminder=cancel] {
+      background-color: var(--lightGray);
+      border: 1px solid var(--borderGray);
+      opacity: .5
+  }
+  
+  [reminder=cancel] .btn {
+      display: none
+  }
+  
+  .labelMovingAnimation {
+      display: block;
+      margin-bottom: 1rem
+  }
+  
+  .labelMovingAnimation label {
+      pointer-events: none;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+      display: inline-block;
+      position: absolute;
+      top: 1rem;
+      left: 1rem;
+      margin: 0
+  }
+  
+  .labelMovingAnimation input:placeholder-shown+label {
+      top: 1rem;
+      left: 1rem;
+      color: var(--color1);
+      font-size: .9rem;
+      font-weight: 400
+  }
+  
+  .labelMovingAnimation input:not(:placeholder-shown)~label {
+      top: 1rem;
+      left: 1rem;
+      color: var(--color1);
+      font-size: .9rem;
+      font-weight: 400
+  }
+  
+  .labelMovingAnimation textarea:placeholder-shown+label {
+      top: 1rem;
+      left: 1rem;
+      color: var(--color1);
+      font-size: .9rem;
+      font-weight: 400
+  }
+  
+  .labelMovingAnimation textarea:not(:placeholder-shown)~label {
+      top: 1rem;
+      left: 1rem;
+      color: var(--color1);
+      font-size: .9rem;
+      font-weight: 400
+  }
+  
+  .labelMovingAnimation input:focus+label,
+  .labelMovingAnimation input:not(:placeholder-shown)+label,
+  .labelMovingAnimation textarea:focus+label,
+  .labelMovingAnimation textarea:not(:placeholder-shown)+label {
+      top: -15px;
+      left: 5px;
+      color: var(--color3);
+      font-size: .889rem;
+      font-weight: 600;
+      background-color: var(--white);
+      padding: .5rem
+  }
+  .messageBox {
+    width: 100%;
+    max-width: 600px;
+    font-size: .702rem;
+    font-weight: 400;
+    margin-top: .5rem;
+    border-radius: var(--inputRadius)
+  }
+  
+  .messageBox:empty {
+    padding: 0;
+    margin-top: 0
+  }
+  
+  .select {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-bottom: 1rem
+  }
+  
+  .select:nth-last-child(1) {
+    justify-self: flex-start
+  }
+  
+  .select label {
+    margin-bottom: 2.75rem
+  }
+  
+  .select .options {
+    position: absolute;
+    top: 1.75rem;
+    left: 0;
+    width: 100%;
+    height: 34px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background-color: var(--white);
+    border: 1px solid var(--borderGray);
+    border-radius: var(--inputRadius);
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+    overflow: hidden
+  }
+  
+  .select .options:hover {
+    height: auto;
+    overflow: auto;
+    z-index: 10;
+    border: 1px solid var(--inputColor2);
+    background-color: var(--lightGray)
+  }
+  
+  .select .options:active {
+    border: 1px solid var(--inputColor3);
+    background-color: var(--lightGray)
+  }
+  
+  .select .options:focus {
+    border: 1px solid var(--inputColor4);
+    background-color: var(--lightGray)
+  }
+  
+  .select .options:visited {
+    border: 1px solid var(--inputColor1)
+  }
+  
+  .select .options [data-label] {
+    order: 2;
+    border: none;
+    border-radius: 0;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+    cursor: pointer
+  }
+  
+  .select .options [data-label]:nth-last-child(1) {
+    border-bottom: none
+  }
+  
+  .select .options [data-label]:hover {
+    background-color: #ebedf3
+  }
+  
+  .select .options [data-label]:hover::before {
+    color: var(--color1)
+  }
+  
+  .select .options [data-label]:checked {
+    order: 1
+  }
+  
+  .select .options [data-label]::before {
+    content: attr(data-label);
+    display: block;
+    color: #1b1b1b;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: .889rem;
+    font-weight: 500;
+    cursor: pointer
+  }
+  
+  .select .options [data-icon]::after {
+    content: url("attr(data-icon)");
+    display: block;
+    color: #5d5e5f;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: .79rem;
+    font-weight: 500;
+    cursor: pointer
+  }
+  
+  .filterSearch {
+    width: 100%;
+    min-width: 100%;
+    overflow: hidden;
+    display: flex;
+    background-color: var(--white)
+  }
+  
+  @media(min-width: 768px) {
+    .filterSearch {
+        min-width: auto;
+        width: 400px !important;
+        max-width: 400px !important
+    }
+  }
+  #dataSection #dataNavSection {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+  }
+  #calendarMainSection #dataSection {
+    width: 70%;
+    border-left: 10px solid #7942a2;
+  }
+  
+  
+  #dataSection .tableDiv table tr td {
+  height: auto;
+  min-height: 60px;
+  border: 1px solid #cabdff;
+  background-color: var(--white);
+  background-clip: padding-box;
+  transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+  }
+  
+  #calendarMainSection .calendarInterface {
+    width: 100%;
+    display: flex;
+    flex-direction: column
+  }
+  
+  @media(min-width: 1024px) {
+    #calendarMainSection .calendarInterface {
+        width: 30%
+    }
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv {
+    width: 100%
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calenderHeader {
+    display: flex;
+    border-bottom: 1px solid #ebedf3
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calenderHeader button {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-family: inherit;
+    font-weight: 400;
+    margin-top: 1rem;
+    border-radius: 0;
+    white-space: nowrap;
+    -webkit-writing-mode: horizontal-tb;
+    text-rendering: auto;
+    overflow: hidden;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+    cursor: pointer;
+    margin: 0;
+    width: 50px;
+    height: 100%;
+    display: flex
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calenderHeader button i {
+    top: 2px;
+    margin-left: .25rem;
+    transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+    cursor: pointer
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calenderHeader button .loader {
+    margin-left: 1rem
+  }
+  
+  @media(min-width: 1024px) {
+    #calendarMainSection .calendarInterface .calenderDiv #calenderHeader button {
+        height: 66px
+    }
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calenderHeader button i {
+    margin: auto;
+    font-size: 1.266rem
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calenderHeader .calendarMonthAndYear {
+    flex: 1;
+    text-align: center;
+    display: flex;
+    border-left: 1px solid #ebedf3;
+    border-right: 1px solid #ebedf3
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calenderHeader .calendarMonthAndYear select {
+    color: #1b1b1b;
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: center;
+    border: none;
+    border-radius: 0
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calenderHeader .calendarMonthAndYear select:nth-child(1) {
+    border-right: 1px solid #ebedf3
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #weekdays {
+    width: 100%;
+    display: flex
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #weekdays div {
+    width: 14.28%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #ebedf3;
+    border-bottom: 1px solid #ebedf3
+  }
+  
+  @media(min-width: 1024px) {
+    #calendarMainSection .calendarInterface .calenderDiv #weekdays div {
+        height: 55px
+    }
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #weekdays div:nth-last-child(1) {
+    border-right: none
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #weekdays div:nth-child(1) {
+    color: #ec4c4c
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calendar {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calendar #currentDay {
+    background-color: var(--inputColor1)
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calendar #currentDay .dayDiv {
+    color: var(--color1);
+    font-weight: 600
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calendar .day {
+    width: 14.28%;
+    padding-top: 14.28%;
+    border-right: 1px solid #ebedf3;
+    border-bottom: 1px solid #ebedf3;
+    box-sizing: border-box;
+    cursor: pointer
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calendar .day:nth-child(7n+8) .dayDiv {
+    color: #ec4c4c !important
+  }
+  
+  @media(min-width: 1024px) {
+    #calendarMainSection .calendarInterface .calenderDiv #calendar .day:nth-child(7n+7) {
+        border-right: none
+    }
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calendar .day .dayDiv {
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+  }
+  
+  #calendarMainSection .calendarInterface .calenderDiv #calendar .day .event {
+  
+    bottom: 0;
+    left: 0;
+    width: 100%
+  }
+  
+  #calendarMainSection .calendarInterface .calendarDataDiv {
+    width: 100%;
+    padding: 2.441rem
+  }
+  
+  #calendarMainSection .calendarInterface .calendarDataDiv .upcomingEvents {
+    background: #fff;
+    border: 1px solid #ebedf3
+  }
+  
+  #calendarMainSection #dataSection {
+    width: 100%
+  }
+  
+  @media(min-width: 1024px) {
+    #calendarMainSection #dataSection {
+        width: 70%;
+        border-left: 1px solid #ebedf3
+    }
+  }
+  
+  #calendarMainSection .contentwrap {
+    width: 100%
+  }
+  
+  @media(min-width: 1024px) {
+    #calendarMainSection .contentwrap {
+        width: 50%
+    }
+  }
+  .calenderDiv {
+    width: 60%
+  }
+  
+      body {
+          font-family: 'Lato', sans-serif !important;
+      }
+  
+  
+  a {
+    color: #47b2e4;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #73c5eb;
+    text-decoration: none;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "lato", sans-serif;
+  }
+  
+  
+  
+  #dataSection #dataNavSection .multiActionNav .actionMenu a:before,
+  #dataSection #dataNavSection .multiActionNav .actionMenu button:before {
+      content: attr(data-tooltip);
+      position: absolute;
+      bottom: -30px;
+      right: 0;
+      z-index: 103;
+      display: block;
+      color: var(--borderGray);
+      font-size: .702rem;
+      font-weight: 300;
+      letter-spacing: .25px;
+      background: rgba(0, 0, 0, .8156862745);
+      backdrop-filter: blur(10px);
+      padding: .5rem;
+      border-radius: .25rem 0 .25rem .25rem;
+      white-space: nowrap;
+      opacity: 0;
+      transform: scale(0.75);
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+      pointer-events: none
+  }
+  
+  #dataSection #dataNavSection .multiActionNav .actionMenu a:hover::before,
+  #dataSection #dataNavSection .multiActionNav .actionMenu button:hover::before {
+      transform: none;
+      opacity: 1
+  }
+  
+  #dataSection #dataNavSection .multiActionNav .actionMenu a i,
+  #dataSection #dataNavSection .multiActionNav .actionMenu button i {
+      margin: 0
+  }
+  
+  #dataSection #dataNavSection .multiActionNav .actionMenu a::before,
+  #dataSection #dataNavSection .multiActionNav .actionMenu button::before {
+      left: 0;
+      right: unset;
+      border-radius: 0 .25rem .25rem .25rem
+  }
+  
+  #dataSection #dataNavSection .multiActionNav .actionMenu a:hover,
+  #dataSection #dataNavSection .multiActionNav .actionMenu button:hover {
+      background-color: var(--lightGray)
+  }
+  
+  #dataSection .tableDiv {
+      width: 100%;
+      max-width: 100%;
+      min-height: 300px;
+      display: none;
+      align-items: flex-start;
+      overflow-x: auto;
+      overflow-y: unset
+  }
+  
+  @media(min-width: 768px) {
+      #dataSection .tableDiv {
+          display: block
+      }
+  }
+  
+  #dataSection .tableDiv::-webkit-scrollbar {
+      width: 8px;
+      height: 8px
+  }
+  
+  #dataSection .tableDiv::-webkit-scrollbar-track {
+      background-color: var(--white)
+  }
+  
+  #dataSection .tableDiv::-webkit-scrollbar-thumb {
+      background: var(--borderGray);
+      border-radius: var(--inputRadius)
+  }
+  
+  #dataSection .tableDiv::-webkit-scrollbar-thumb:window-inactive {
+      background: var(--borderGray)
+  }
+  
+  #dataSection .tableDiv table {
+      width: 100%;
+      display: table;
+      border-spacing: 0;
+      border-collapse: collapse
+  }
+  
+  #dataSection .tableDiv table .activeRow {
+      background-color: var(--tableRow) !important
+  }
+  
+  #dataSection .tableDiv table tr {
+      display: table-row;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+      border-bottom: 1px solid var(--borderGray)
+  }
+  
+  #dataSection .tableDiv table tr th,
+  #dataSection .tableDiv table tr td {
+      text-align: left;
+      padding: .25rem .75rem
+  }
+  
+  #dataSection .tableDiv table tr th {
+      padding-top: .75rem;
+      padding-bottom: .75rem;
+      color: var(--darkGray);
+      font-size: .79rem;
+      font-weight: 600;
+      background-color: var(--white)
+  }
+  
+  #dataSection .tableDiv table tr td {
+      height: auto;
+      min-height: 60px;
+      border: 1px solid var(--borderGray);
+      background-color: var(--white);
+      background-clip: padding-box;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  #dataSection .tableDiv table tr td:nth-last-child(1) .changeStatusBtn:hover::before {
+      opacity: 1;
+      color: var(--color1);
+      border: 1.5px dashed var(--inputColor3);
+      transform: translateY(-50%) scale(1.05)
+  }
+  
+  #dataSection .tableDiv table tr td:nth-last-child(1) .changeStatusBtn::before {
+      content: "Change Status";
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      font-family: inherit;
+      font-weight: 400;
+      margin-top: 1rem;
+      border-radius: 0;
+      white-space: nowrap;
+      -webkit-writing-mode: horizontal-tb;
+      text-rendering: auto;
+      overflow: hidden;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      left: -1px;
+      transform: translateY(-50%);
+      margin: 0;
+      padding: .6rem;
+      color: var(--black);
+      font-size: .79rem;
+      font-weight: 600;
+      background-color: var(--white);
+      border: 1.5px dashed var(--inputColor2);
+      border-radius: var(--radius);
+      opacity: 0
+  }
+  
+  #dataSection .tableDiv table tr td:nth-last-child(1) .changeStatusBtn::before i {
+      top: 2px;
+      margin-left: .25rem;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+      cursor: pointer
+  }
+  
+  #dataSection .tableDiv table tr td:nth-last-child(1) .changeStatusBtn::before .loader {
+      margin-left: 1rem
+  }
+  
+  #dataSection .tableDiv table tr:hover td {
+      background-color: var(--inputColor1) !important
+  }
+  
+  #dataSection .tableDiv table tr:hover .checkBoxTD {
+      background-color: var(--white) !important
+  }
+  
+  #dataSection .tableDiv table tr:nth-child(even) td {
+      background-color: var(--tableRow);
+      background-clip: padding-box
+  }
+  
+  #dataSection .tableDiv table tr:nth-child(1) .tableMenu .btnMenuDiv {
+      top: 0 !important
+  }
+  
+  #dataSection .tableDiv table .checkBoxTD {
+      width: 80px;
+      min-width: 80px;
+      max-width: 80px;
+      height: 100%;
+      display: table-cell;
+      text-align: left;
+      padding-right: 0;
+      padding-top: 0;
+      padding-bottom: 0;
+      padding-left: 1.3333rem;
+      background-color: var(--white) !important;
+      border: none;
+      border-right: 1px solid var(--borderGray);
+      white-space: nowrap;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  #dataSection .tableDiv table .tableMenu .moreBtn {
+      height: 100%;
+      display: initial;
+      padding: 1rem .6rem
+  }
+  
+  #dataSection .tableDiv table .tableMenu .moreBtn:hover .btnMenuDiv {
+      top: -20px;
+      left: 0;
+      padding-left: 100%
+  }
+  
+  #dataSection .tableDiv table .tableMenu .moreBtn:hover .btnMenuDiv .btnMenu {
+      border-radius: 0 var(--radius) var(--radius) var(--radius)
+  }
+  
+  #dataSection .tableDiv table .tableMenu .moreBtn .moreIcon {
+      font-size: 1.266rem
+  }
+  
+  #dataSection .tableDiv table .tableMenu .moreBtn .btnMenuDiv {
+      left: 100%;
+      width: max-content;
+      min-width: 250px;
+      padding-top: 0
+  }
+  
+  #dataSection .tableDiv table td {
+      font-size: .889rem;
+      line-height: 1.2
+  }
+  
+  #dataSection .tableDiv table td a {
+      display: block
+  }
+  
+  #dataSection .tableDiv table td p,
+  #dataSection .tableDiv table td span {
+      display: block;
+      margin-top: 0;
+      margin-bottom: .25rem;
+      font-size: .889rem;
+      line-height: 1.2
+  }
+  
+  #dataSection .tableDiv table td .labelText {
+      display: flex;
+      align-items: center;
+      color: var(--gray) !important;
+      font-size: .79rem !important;
+      font-weight: 500 !important;
+      white-space: nowrap
+  }
+  
+  #dataSection .tableDiv table td .labelText span {
+      margin-top: .25rem;
+      display: block;
+      color: var(--black) !important;
+      font-size: .9rem !important;
+      font-weight: 600 !important;
+      white-space: nowrap
+  }
+  
+  #dataSection .tableDiv table td .name {
+      margin: 0;
+      color: var(--black);
+      font-size: .889rem;
+      font-weight: 600
+  }
+  
+  #dataSection .tableDiv table td .phone,
+  #dataSection .tableDiv table td .email,
+  #dataSection .tableDiv table td .whatsapp,
+  #dataSection .tableDiv table td .dateText,
+  #dataSection .tableDiv table td .timeText {
+      font-size: .889rem
+  }
+  
+  #dataSection .tableDiv table td .link {
+      color: #1551bd;
+      background-color: #f0f8ff;
+      padding: .15rem .55rem;
+      border-radius: var(--inputRadius);
+      line-height: 1.5;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1);
+      cursor: pointer
+  }
+  
+  #dataSection .tableDiv table td .link:hover {
+      background-color: #dcefff;
+      color: #124fc2
+  }
+  
+  #dataSection .tableDiv table td .profileMinimal .profile .name {
+      font-size: .889rem
+  }
+  
+  #dataSection .tableDiv table td .profileMinimal .profile p {
+      margin-top: .35rem
+  }
+  
+  #dataSection .tableDiv table .contactActionList .contactList {
+      max-width: 230px;
+      border: none !important;
+      padding: 0 !important
+  }
+  
+  #dataSection .tableDiv table .contactActionList .contactList p {
+      margin-bottom: 0
+  }
+  
+  #dataSection .tableDiv .subTable .subTableData {
+      padding: 0;
+      padding-left: 0 !important
+  }
+  
+  #dataSection .tableDiv .subTable .subTableData table tr:nth-child(1) {
+      height: 30px !important;
+      background-color: var(--color2) !important
+  }
+  
+  #dataSection .tableDiv .subTable .subTableData table tr:nth-child(1) th {
+      color: var(--white) !important
+  }
+  
+  #dataSection .dataCardSection {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap
+  }
+  
+  @media(min-width: 1024px) {
+      #dataSection .dataCardSection {
+          display: none
+      }
+  }
+  
+  #dataSection .dataCardSection .dataCard {
+      width: 100%;
+      display: inline-block;
+      padding: 1rem !important;
+      border-radius: var(--radius);
+      border: 1px solid var(--inputBorder);
+      margin-bottom: 1rem;
+      transition: all .3s cubic-bezier(0, 0, 0.5, 1)
+  }
+  
+  @media(min-width: 568px) {
+      #dataSection .dataCardSection .dataCard {
+          width: 48.5%;
+          margin-right: 2%
+      }
+  
+      #dataSection .dataCardSection .dataCard:nth-child(2n+2) {
+          margin-right: 0
+      }
+  }
+  
+  @media(min-width: 568px)and (min-width: 1024px) {
+      #dataSection .dataCardSection .dataCard:nth-child(2n+2) {
+          margin-right: 2%
+      }
+  }
+  
+  @media(min-width: 1024px) {
+      #dataSection .dataCardSection .dataCard {
+          width: 31.5%;
+          margin-right: 2%;
+          margin-bottom: 2.281rem
+      }
+  
+      #dataSection .dataCardSection .dataCard:nth-child(3n+3) {
+          margin-right: 0
+      }
+  }
+  
+  @media(min-width: 1024px)and (min-width: 1280px) {
+      #dataSection .dataCardSection .dataCard:nth-child(3n+3) {
+          margin-right: 2%
+      }
+  }
+  
+  @media(min-width: 1280px) {
+      #dataSection .dataCardSection .dataCard {
+          width: 23.5%;
+          margin-right: 2%
+      }
+  
+      #dataSection .dataCardSection .dataCard:nth-child(4n+4) {
+          margin-right: 0
+      }
+  }
+  
+  #dataSection .dataCardSection .dataCard .titleDiv {
+      margin-bottom: .5rem
+  }
+  
+  #dataSection .dataCardSection .dataCard .title {
+      margin: 0;
+      font-weight: 600 !important
+  }
+  
+  #dataSection .dataCardSection .dataCard p {
+      display: flex;
+      margin-top: .5rem;
+      color: var(--darkGray);
+      font-size: .79rem;
+      font-weight: 400
+  }
+  
+  #dataSection .dataCardSection .dataCard p .border {
+      margin: 0 .5rem
+  }
+  
+  #dataSection .dataCardSection .dataCard .date {
+      color: var(--textGray);
+      font-size: .624rem !important;
+      font-weight: 500
+  }
+  
+  #dataSection .dataCardSection .dataCard .listDiv {
+      padding-left: .5rem;
+      margin-top: .5rem
+  }
+  
+  #dataSection .dataCardSection .dataCard .listDiv li {
+      margin-bottom: .35rem;
+      color: var(--gray);
+      font-size: .79rem;
+      font-weight: 400
+  }
+  
+  #dataSection .dataCardSection .dataCard .listDiv li::before {
+      content: "";
+      position: absolute;
+      top: 5px;
+      left: -8px;
+      width: 3px;
+      height: 3px;
+      background-color: var(--textGray)
+  }
+  
+  #dataSection .dataCardSection .dataCard .labelListDiv {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid var(--lightGray);
+      margin-top: .5rem;
+      padding-top: .5rem
+  }
+  
+  #dataSection .dataCardSection .dataCard .labelListDiv li {
+      margin-right: .5rem;
+      margin-bottom: .5rem;
+      text-transform: capitalize
+  }
+  
+  #dataSection .dataCardSection .dataCard .labelListDiv li span {
+      margin-bottom: .35rem;
+      color: var(--gray);
+      font-size: .555rem;
+      font-weight: 400
+  }
+  
+  #dataSection .dataCardSection .dataCard .labelListDiv li p {
+      margin: 0;
+      color: var(--black);
+      font-size: .79rem;
+      font-weight: 500
+  }
+  
+  #dataSection .dataCardSection .dataCard .bottomDiv {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-top: 1rem
+  }

@@ -1,0 +1,33 @@
+{
+    "remotePath": "./",
+    "host": "files.000webhost.com",
+    "username": "be-square",
+    "password": "123Forgotten?",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": true,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": true,
+        "extensionsToInclude": [
+            ".php",
+            ".css",
+            ".html",
+            ".twig",
+            ".JSON",
+            ".js"
+        ],
+        "path": ""
+    }
+}

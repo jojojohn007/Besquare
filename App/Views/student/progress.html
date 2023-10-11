@@ -1,0 +1,204 @@
+{% block title %}Progress{% endblock %}
+{% extends "studentbase.html" %}
+{% block dynamicContent %}
+<style>
+.navcontentload.mx-auto{
+        width: unset;
+    }
+    section {
+        padding-top:unset !important;
+    }
+</style>
+<link rel="stylesheet" href="{{root}}css/admin.css?ver=0.98" />
+<div class="head">
+    <h1>Course progress</h1>
+</div>
+
+<main id="dashboardSection">
+
+    <section id="calendarMainSection">
+        <div class="calendarInterface">
+            <div class="calenderDiv">
+                <div id="container">
+                    <div id="calenderHeader">
+                        <button id="backButton"><i class="bi bi-caret-left"></i> </button>
+                        <div class="calendarMonthAndYear">
+                            <select id="yearDisplay" reversed onchange='fetchCalendar(this,"year")'></select>
+                            <select id="monthDisplay" onchange='fetchCalendar(this,"month")'></select>
+                            <div id="monthDisplay"></div>
+                        </div>
+                        <button id="nextButton"><i class="bi bi-caret-right"></i> </button>
+                    </div>
+
+                    <div id="weekdays">
+                        <div>S</div>
+                        <div>M</div>
+                        <div>T</div>
+                        <div>W</div>
+                        <div>T</div>
+                        <div>F</div>
+                        <div>S</div>
+                    </div>
+                    <div id="calendar"></div>
+                </div>
+
+
+
+            </div>
+
+        </div>
+        <section id="dataSection" class="">
+            <nav id="dataNavSection">
+                <div id="navMain">
+                    <div class="tabBarNav">
+                        <a class="tabBar" switchType="Events" onclick="">Activities</a>
+                    </div>
+                    <!--Menu-->
+                    <ul class="navDiv">
+                        <div class="filterSearch">
+                            <div class="inputBox">
+                                <select name="searchKey" id="searchKey">
+                                    <option value="unit">Unit</option>
+                                    <option value="lesson">lesson</option>
+                                    <option value="topic">Topic</option>
+                                </select>
+
+                                <input type="search" list='datavalue' name="searchValue" id="searchValue"
+                                    placeholder="Search" aria-controls="dataTable">
+                                <datalist id="datavalue">
+
+                                </datalist>
+                                <button id="searchButton">
+                                    <i class="fi fi-rr-search"></i>
+                                </button>
+                            </div>
+                            <span class="messageBox"></span>
+                        </div>
+                    </ul>
+                    <!--Menu-->
+                    <ul class="navDiv">
+                        <li class="filterBtn"><i class="fi fi-rr-settings-sliders"></i>Filter</li>
+                        <div class="switchView">
+                            <a class="activeSwitch tableSwitch">
+                                <i class="fi fi-rr-list"></i>
+                            </a>
+                            <a class="cardSwitch">
+                                <i class="fi fi-rr-apps"></i>
+                            </a>
+
+                        </div>
+                    </ul>
+                </div>
+                <form class="openFilter">
+                    <div class="inputDiv">
+                        <label for="StatusFilter">Filter</label>
+                        <select name="StatusFilter" id="StatusFilter" filter="Filter">
+                            <option value="All">All</option>
+                            <option value="video">Videos</option>
+                            <option value="problem">Problems</option>
+                        </select>
+                        <span class="messageBox"></span>
+                    </div>
+
+                    <div class="inputDiv customDateFields">
+                        <label for="dateFrom">Date From</label>
+                        <input type="date" id="dateFrom" name="" datefilter="from">
+                        <span class="messageBox"></span>
+                    </div>
+                    <div class="inputDiv customDateFields">
+                        <label for="dateTo">Date To</label>
+                        <input type="date" id="dateTo" name="" datefilter="to">
+                        <span class="messageBox"></span>
+                    </div>
+                    <div class="btnDiv">
+                        <a id="cancelFilterBtn">Cancel</a>
+                        <a id="applyFilterBtn">Apply</a>
+                    </div>
+                </form>
+
+            </nav>
+            <div id="EventsDetails">
+                <div class="tableDiv" style="display: flex;">
+                    <table id="commonTables">
+                        <tbody>
+                            <tr>
+                                <td class="checkBoxTD tableMenu">
+                                    <input id="allSelector" type="checkbox" class="selectAllCheckBox">
+                                    <div class="moreBtn">
+                                        <i class="moreIcon fi fi-rr-list-check"></i>
+
+                                        <div class="btnMenuDiv">
+                                            <div class="btnMenu">
+                                                <label> <input type="checkbox" columnshowhidecheckbox=""
+                                                        checked="checked" index="2">No</label>
+                                                <label> <input type="checkbox" columnshowhidecheckbox=""
+                                                        checked="checked" index="3">
+                                                    Date</label>
+                                                <label><input type="checkbox" columnshowhidecheckbox=""
+                                                        checked="checked" index="4">
+                                                    Class</label>
+                                                <label><input type="checkbox" columnshowhidecheckbox=""
+                                                        checked="checked" index="5">
+                                                    Lessons</label>
+                                                <label><input type="checkbox" columnshowhidecheckbox=""
+                                                        checked="checked" index="6">
+                                                    Time</label>
+                                                <label><input type="checkbox" columnshowhidecheckbox=""
+                                                        checked="checked" index="7">
+                                                    Category</label>
+                                                <label><input type="checkbox" columnshowhidecheckbox=""
+                                                        checked="checked" index="8"> Assign
+                                                    Staff</label>
+                                                <!-- <label><input type="checkbox" columnshowhidecheckbox=""
+                                                        checked="checked" index="9">
+                                                    Status</label> -->
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- <th width="md">Priority</th> -->
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="paginationFooter sectionSpaceB">
+                    <p class="text">Showing
+                        <span>1</span>
+                        to
+                        <span>6</span>
+                        of
+                        <span>6</span>
+                        entries
+                    </p>
+                </div>
+            </div>
+            <div id="taskDetails" style="display: none;">
+                <div class="tableDiv" style="display: flex;">
+
+                </div>
+
+                <div class="paginationFooter sectionSpaceB">
+                    <p class="text">Showing
+                        <span>1</span>
+                        to
+                        <span>6</span>
+                        of
+                        <span>6</span>
+                        entries
+                    </p>
+                </div>
+            </div>
+        </section>
+
+    </section>
+
+    <!--js-->
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</main>
+
+<script src="{{root}}js/calendar.js"></script>
+
+{% endblock %}

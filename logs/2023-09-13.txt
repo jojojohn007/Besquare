@@ -1,0 +1,1900 @@
+[13-Sep-2023 09:18:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:18:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:18:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:18:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:18:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:18:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:18:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:18:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:18:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:18:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:18:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:20:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:21:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:24:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:26:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:32:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:34:34 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=VENDOR_PATH?...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:51:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/img/favi...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 09:56:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=CSS_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:30:46 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:30:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:30:47 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:32:39 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:33:26 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:33:54 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:33:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:39:16 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=ROOT?%3E/Abo...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:39:20 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:39:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=ROOT?%3E/Log...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:39:35 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:39:36 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=ROOT?%3E/Con...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:39:39 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:41:04 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:41:04 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:44:10 Europe/Berlin] Uncaught exception : Twig\Error\SyntaxError'with message 'A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag?'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Parser.php(341): Twig\Parser->filterBodyNodes(Object(Twig\Node\PrintNode), false)
+#1 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Parser.php(85): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#5 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#6 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(280): Twig\Environment->load('Home/index.html')
+#7 /opt/lampp/htdocs/besquare/Core/View.php(29): Twig\Environment->render('Home/index.html', Array)
+#8 /opt/lampp/htdocs/besquare/App/Controllers/Home.php(7): Core\View::renderTemplate('Home/index.html', Array)
+#9 [internal function]: App\Controllers\Home->indexAction()
+#10 /opt/lampp/htdocs/besquare/Core/Controller.php(10): call_user_func_array(Array, Array)
+#11 /opt/lampp/htdocs/besquare/Core/Router.php(38): Core\Controller->__call('index', Array)
+#12 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('')
+#13 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/App/Views/Home/index.html' on line 8
+[13-Sep-2023 12:44:10 Europe/Berlin] Uncaught exception : Twig\Error\SyntaxError'with message 'A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag?'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Parser.php(341): Twig\Parser->filterBodyNodes(Object(Twig\Node\PrintNode), false)
+#1 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Parser.php(85): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#5 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#6 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(280): Twig\Environment->load('Home/index.html')
+#7 /opt/lampp/htdocs/besquare/Core/View.php(29): Twig\Environment->render('Home/index.html', Array)
+#8 /opt/lampp/htdocs/besquare/App/Controllers/Home.php(7): Core\View::renderTemplate('Home/index.html', Array)
+#9 [internal function]: App\Controllers\Home->indexAction()
+#10 /opt/lampp/htdocs/besquare/Core/Controller.php(10): call_user_func_array(Array, Array)
+#11 /opt/lampp/htdocs/besquare/Core/Router.php(38): Core\Controller->__call('index', Array)
+#12 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('')
+#13 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/App/Views/Home/index.html' on line 8
+[13-Sep-2023 12:44:10 Europe/Berlin] Uncaught exception : Twig\Error\SyntaxError'with message 'A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag?'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Parser.php(341): Twig\Parser->filterBodyNodes(Object(Twig\Node\PrintNode), false)
+#1 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Parser.php(85): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#5 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#6 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(280): Twig\Environment->load('Home/index.html')
+#7 /opt/lampp/htdocs/besquare/Core/View.php(29): Twig\Environment->render('Home/index.html', Array)
+#8 /opt/lampp/htdocs/besquare/App/Controllers/Home.php(7): Core\View::renderTemplate('Home/index.html', Array)
+#9 [internal function]: App\Controllers\Home->indexAction()
+#10 /opt/lampp/htdocs/besquare/Core/Controller.php(10): call_user_func_array(Array, Array)
+#11 /opt/lampp/htdocs/besquare/Core/Router.php(38): Core\Controller->__call('index', Array)
+#12 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('')
+#13 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/App/Views/Home/index.html' on line 8
+[13-Sep-2023 12:44:12 Europe/Berlin] Uncaught exception : Twig\Error\SyntaxError'with message 'A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag?'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Parser.php(341): Twig\Parser->filterBodyNodes(Object(Twig\Node\PrintNode), false)
+#1 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Parser.php(85): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#5 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#6 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(280): Twig\Environment->load('Home/index.html')
+#7 /opt/lampp/htdocs/besquare/Core/View.php(29): Twig\Environment->render('Home/index.html', Array)
+#8 /opt/lampp/htdocs/besquare/App/Controllers/Home.php(7): Core\View::renderTemplate('Home/index.html', Array)
+#9 [internal function]: App\Controllers\Home->indexAction()
+#10 /opt/lampp/htdocs/besquare/Core/Controller.php(10): call_user_func_array(Array, Array)
+#11 /opt/lampp/htdocs/besquare/Core/Router.php(38): Core\Controller->__call('index', Array)
+#12 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('')
+#13 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/App/Views/Home/index.html' on line 8
+[13-Sep-2023 12:44:12 Europe/Berlin] Uncaught exception : Twig\Error\SyntaxError'with message 'A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag?'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Parser.php(341): Twig\Parser->filterBodyNodes(Object(Twig\Node\PrintNode), false)
+#1 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Parser.php(85): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#5 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#6 /opt/lampp/htdocs/besquare/vendor/twig/twig/src/Environment.php(280): Twig\Environment->load('Home/index.html')
+#7 /opt/lampp/htdocs/besquare/Core/View.php(29): Twig\Environment->render('Home/index.html', Array)
+#8 /opt/lampp/htdocs/besquare/App/Controllers/Home.php(7): Core\View::renderTemplate('Home/index.html', Array)
+#9 [internal function]: App\Controllers\Home->indexAction()
+#10 /opt/lampp/htdocs/besquare/Core/Controller.php(10): call_user_func_array(Array, Array)
+#11 /opt/lampp/htdocs/besquare/Core/Router.php(38): Core\Controller->__call('index', Array)
+#12 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('')
+#13 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/App/Views/Home/index.html' on line 8
+[13-Sep-2023 12:44:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:44:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:44:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:44:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:44:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:44:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:49:05 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('<&=PNG_PATH?%3E...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:49:05 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:50:32 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:52:26 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/hareesh....')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:52:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/quotes.p...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:52:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:53:42 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/png/png/...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:53:42 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/png/png/...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:53:42 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/png/png/...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:53:42 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/png/png/...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:53:42 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:54:03 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/png/png/...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:54:03 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/png/png/...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:54:03 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/png/png/...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:54:03 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/png/png/...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:54:03 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:54:26 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 12:55:13 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:00:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public_html/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:01:28 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:02:01 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:02:05 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:02:16 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:02:18 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('Home')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:02:25 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:02:27 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:02:37 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:02:38 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:02:40 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:04:01 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:04:03 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(30): Core\Router->dispatch('About')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:05:29 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(36): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:06:19 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:06:20 Europe/Berlin] Uncaught exception : Exception'with message 'controller App\Controllers\About  does not exist'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('About')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 47
+[13-Sep-2023 13:06:48 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:06:51 Europe/Berlin] Uncaught exception : Exception'with message 'controller App\Controllers\Login  does not exist'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('Login')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 47
+[13-Sep-2023 13:06:55 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:06:56 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:06:59 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:07:00 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:07:02 Europe/Berlin] Uncaught exception : Exception'with message 'controller App\Controllers\Contact  does not exist'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('contact')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 47
+[13-Sep-2023 13:13:05 Europe/Berlin] Uncaught exception : Exception'with message 'controller App\Controllers\Contact  does not exist'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('contact')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 47
+[13-Sep-2023 13:13:10 Europe/Berlin] Uncaught exception : Exception'with message 'router not found'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('assets/vendor/i...')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 57
+[13-Sep-2023 13:13:11 Europe/Berlin] Uncaught exception : Exception'with message 'controller App\Controllers\Home  does not exist'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 47
+[13-Sep-2023 13:13:12 Europe/Berlin] Uncaught exception : Exception'with message 'controller App\Controllers\Home  does not exist'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 47
+[13-Sep-2023 13:13:13 Europe/Berlin] Uncaught exception : Exception'with message 'controller App\Controllers\Home  does not exist'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 47
+[13-Sep-2023 13:13:13 Europe/Berlin] Uncaught exception : Exception'with message 'controller App\Controllers\Home  does not exist'
+ Stack trace :#0 /opt/lampp/htdocs/besquare/public/index.php(37): Core\Router->dispatch('')
+#1 {main}
+ Thrown in '/opt/lampp/htdocs/besquare/Core/Router.php' on line 47

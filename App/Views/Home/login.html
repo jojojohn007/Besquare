@@ -1,0 +1,45 @@
+ {% extends "welcomebase.html" %}
+  {% block title %}Contact us{% endblock %} 
+  {% block body %}
+
+
+<form class="d-flex" method="POST" onsubmit='' name='myform' action="">
+    <div class="d-flex container align-items-center wrapper justify-content-center">
+
+        <img src="assets/png/login.png" alt="" width="50%" class="img-fluid">
+        <div class="m2">
+
+            <h1>Login  </h1>
+            <p>Good to see you again!</p>
+            <p>By logging into Be-square Academy, you agree to our Terms of use and Privacy Policy.</p>
+
+
+
+
+
+            <div class="detail"><i class="bi bi-envelope-fill "></i><input type="text" name="email"
+                    placeholder="Enter your email">
+                <br>
+            </div>
+
+
+            <div class="detail"><i class="bi bi-person-fill"></i>
+                <input type="text" name="password" placeholder="Enter your password">
+            </div>
+
+
+
+            <div class="d-flex"><input class="checkbox d-inline-block" type="checkbox" name="" id="">
+            <p class="d-inline-block">Remember me</p>
+            </div>
+            <button type="submit" id="submit" value="login" class="btn btn-info my-2 mb-5">Login</button>
+
+            <p>New to be square ?<span class="text-info link0 "><a href="signup"> Register </a></span>
+            </p>
+        </div>
+    </div>
+
+</form> 
+ {% endblock %}
+
+  

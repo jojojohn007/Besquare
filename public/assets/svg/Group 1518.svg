@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.984" height="14.984" viewBox="0 0 14.984 14.984">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #57c8b6;
+      }
+    </style>
+  </defs>
+  <g id="Group_1518" data-name="Group 1518" transform="translate(-8983.934 -4699.425)">
+    <path id="Icon_material-question-answer" data-name="Icon material-question-answer" class="cls-1" d="M17.235,6h-1.5V12.74H6v1.5a.751.751,0,0,0,.749.749h8.241l3,3V6.746A.751.751,0,0,0,17.235,6Zm-3,4.5V3.749A.751.751,0,0,0,13.489,3H3.749A.751.751,0,0,0,3,3.749V14.238l3-3h7.492A.751.751,0,0,0,14.238,10.492Z" transform="translate(8980.934 4696.425)"/>
+  </g>
+</svg>

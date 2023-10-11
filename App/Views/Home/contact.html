@@ -1,0 +1,23 @@
+ {% extends "welcomebase.html" %}
+  {% block title %}Contact us{% endblock %} 
+  {% block body %}
+  <section id="hero" class="d-flex align-items-center ">
+    <h1 class="text-white m-auto heading" data-aos="fade-in">Let's start a conversation..</h1>
+     </section>
+     <section class="container">
+        <h2>Get in touch</h2>
+        <p>If you have any questions or need help ,please fill out the form below.
+            We do out best to respond within 1 business day. </p>
+            <form action="" method="post" class=" d-flex flex-column ">
+              <div><i class="bi bi-person-fill"></i><input type="text" name="" id="" placeholder="Enter your name"></div>
+              <div ><i class="bi bi-envelope-fill "></i><input type="text" name="" id="" placeholder="Enter your email"></div>
+              <br>
+             <textarea class="mx-2" rows="4" cols="50" placeholder="Your message"></textarea>
+              <button type="submit" class="btn btn-info my-4">Submit</button>
+
+            </form>
+     </section>
+
+  {% endblock %}
+
+  

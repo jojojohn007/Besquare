@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35.163" height="35.163" viewBox="0 0 35.163 35.163">
+  <defs>
+    <filter id="Icon_map-circle" x="0" y="0" width="35.163" height="35.163" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1484" data-name="Group 1484" transform="translate(-66.656 -496.578)">
+    <g id="Group_1480" data-name="Group 1480" transform="translate(75.657 502.578)">
+      <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Icon_map-circle)">
+        <path id="Icon_map-circle-2" data-name="Icon map-circle" d="M17.883,9.3A8.581,8.581,0,1,1,9.3.72,8.581,8.581,0,0,1,17.883,9.3Z" transform="translate(8.28 5.28)" fill="#57c8b6"/>
+      </g>
+      <g id="Icon_feather-video" data-name="Icon feather-video" transform="translate(2.644 4.803)">
+        <path id="Path_3612" data-name="Path 3612" d="M27.778,10.5,24,13.2l3.778,2.7Z" transform="translate(-15.904 -9.42)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_3613" data-name="Path 3613" d="M2.58,7.5H8.517A1.08,1.08,0,0,1,9.6,8.58v5.4a1.08,1.08,0,0,1-1.08,1.08H2.58a1.08,1.08,0,0,1-1.08-1.08V8.58A1.08,1.08,0,0,1,2.58,7.5Z" transform="translate(-1.5 -7.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

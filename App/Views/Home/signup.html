@@ -1,0 +1,51 @@
+ {% extends "welcomebase.html" %}
+  {% block title %}Contact us{% endblock %} 
+  {% block body %}
+  <form class="d-flex" method="POST" onsubmit='return validate()' name='myform' action="">
+    <div class="d-flex container align-items-center wrapper justify-content-center">
+        <img src="assets/png/register.png" alt="" width="50%" class="img-fluid">
+        <div>
+
+            <div><i class="bi bi-person-fill"></i><input type="text" name="name" placeholder="Enter your name">
+                <span class="msgmN errorField d-none"></span>
+            </div>
+
+
+            <div><i class="bi bi-person-fill"></i><input type="text" name="lastname" placeholder="Enter your last name">
+                <span class="msgmN errorField d-none"></span>
+            </div>
+
+            <div><i class="bi bi-person-fill"></i><input type="text" name="email" id=""
+                placeholder="Enter your email">
+            <span class="msgpss errorField"></span>
+        </div>
+
+            <div><i class="bi bi-person-fill"></i><input type="text" name="password" id=""
+                    placeholder="Enter your password">
+                <span class="msgpss errorField"></span>
+            </div>
+
+            <div><i class="bi bi-envelope-fill "></i><input type="text" name="rptpassword" id=""
+                    placeholder="Confirm password">
+                <span class="msgpss errorField"></span>
+            </div>
+
+
+
+
+            <div class="d-flex"><input class="checkbox d-inline-block" type="checkbox" name="" id="">
+                <p class="d-inline-block">I agree with Be-square terms of use and privacy policy</p>
+            </div>
+            <button type="submit" name='submit' class="btn btn-info my-4">Register</button>
+            <p>Already have an account ?<span class="text-info link0"><a href="login.html">Login now </a></span></p>
+
+        </div>
+    </div>
+
+
+
+</form>
+                
+  {% endblock %}
+
+  

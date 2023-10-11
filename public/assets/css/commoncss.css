@@ -1,0 +1,12 @@
+
+
+.navbar {
+    padding: 0;
+    /* float: left; */
+    flex: 1;
+    flex: 2;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  
